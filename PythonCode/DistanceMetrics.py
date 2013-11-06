@@ -14,7 +14,41 @@
 import nltk.metrics.distance as Distance
 
 def DistanceJaccard(set1, set2):
-	pass
+	#first convert to two sets without
+	#repeating elements
+	setOfWords = []
+
+	#get set of all words
+	for word in set1:
+		if (word not in setOfWords):
+			setOfWords.append(word)
+	for word in set2:
+		if (word not in setOfWords):
+			setOfWords.append(word)
+
+	#now generate the individual
+	dataSet1 = []
+	dataSet2 = []
+
+	for word in setOfWords:
+		if (word in set1):
+			dataSet1.append(True)
+		else:
+			dataSet1.append(False)
+
+		if (word in set2):
+			dataSet2.append(True)
+		else:
+			dataSet2.append(False)
+
+	#now calculate distance
+	union = 0.0
+
+	for i in range(0,len(dataSet1)-1):
+		if (dataSet1[i] == dataSet2[i]):
+			union += 1
+
+	return union/len(setOfWords)
 
 def DistanceLevenstein(set1, set2):
 	pass
