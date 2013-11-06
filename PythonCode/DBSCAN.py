@@ -22,9 +22,15 @@ def init(self, MinGroupSize, DistanceThreshold, DistanceMetricType):
 
 def IsNoise(self, ArticleSet):
 	#count number of points within distance threshold
+	numClosePoints = 0
+	for pair in self.data:
+		if (self.useJaccard and Distance.DistanceJaccard(ArticleSet) >
+			self.threshold):
+				numClosePoints += 1
 
 	#if less than threshold, is noise point
-	pass
+	if (numClosePoints < self.min):
+		return True
 
 def ClosestPoint(self):
 	pass
@@ -34,13 +40,18 @@ def ClassifyCluster(self):
 
 def AddArticle(self, ArticleName, ArticleTerms):
 	#check if point is noise
+	if (not IsNoise(ArticleTerms)):
+		pass
+		#if not, assign to closest cluster within threshold
 
-	#if not, assign to closest cluster within threshold
+		#if no cluster exist, create new cluster and assign
 
-	#if no cluster exist, create new cluster and assign
-
-
+def CleanUpOutliers():
 	#Mental note, handle outliers that aren't noise
+	#go through all the noise points cluster outliers
+	#if possible
+	# Outliers are points below min neighbor points, but
+	# within distance threshold of a cluster
 	pass
 
 def main():
