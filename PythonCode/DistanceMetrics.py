@@ -13,6 +13,12 @@
 #http://nltk.org/api/nltk.metrics.html
 import nltk.metrics.distance as Distance
 
+def DistanceJaccard(set1, set2):
+	pass
+
+def DistanceLevenstein(set1, set2):
+	pass
+
 def main():
 	print "Perform sample distance calculations."
 	#Distance.demo()
