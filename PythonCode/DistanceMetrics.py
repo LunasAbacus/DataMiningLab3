@@ -51,13 +51,26 @@ def DistanceJaccard(set1, set2):
 	return 1.0 - union/len(setOfWords)
 
 def DistanceLevenstein(set1, set2):
-	pass
+    pass
+    #totalDistance = 0
+    #for word1 in set1:
+    #    for word2 in set2:
+    #       total += Distance.edit_distance(word1, word2)
 
 def main():
-	print "Perform sample distance calculations."
-	#Distance.demo()
-	print ("Levenstein Distance between [dreadful, funny] = " +
-		str(Distance.edit_distance('dreadful', 'funny')))
+    print "Perform sample distance calculations."
+    print("MASI Distance between ['funny', 'jack'] and ['jack', 'funny'] = " +
+        str(Distance.masi_distance(set(['funny', 'jack']), set(['jack', 'funny']))))
+    print("MASI Distance between ['funny', 'jack', 'sarah'] and ['jack', 'funny'] = " +
+        str(Distance.masi_distance(set(['funny', 'jack','sarah']), set(['jack', 'funny']))))
+    print ("Levenstein Distance between [dreadful, funny] = " +
+        str(Distance.edit_distance('dreadful', 'funny')))
+    print ("Levenstein Distance between [funny, funny] = " +
+        str(Distance.edit_distance('funny', 'funny')))
+    print ("Levenstein Distance between ['jim', 'sally', 'jack'] and ['jack', 'jim', 'sally'] = " +
+        str(Distance.edit_distance(['jim', 'sally', 'jack'], ['jack', 'jim', 'sally'])))
+    print("Jaccard Distance between ['sally', 'jim']) and set(['jim', 'sally'] = " +
+        str(Distance.jaccard_distance(set(['sally', 'jim']), set(['jim', 'sally']))))
 
 if __name__ == '__main__':
     main()
