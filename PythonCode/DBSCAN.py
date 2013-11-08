@@ -67,6 +67,9 @@ def ClassifyCluster(self, point):
 		self.highestCluster += 1
 
 def AddArticle(self, ArticleName, ArticleTerms):
+	# take only the top x terms from ArticleTerms
+	#   Article terms are a dictionary of Term:Number
+
 	point = ClusterPoint(ArticleName, ArticleTerms)
 
 	#check if point is noise
