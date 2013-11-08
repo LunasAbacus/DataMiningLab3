@@ -25,35 +25,53 @@ def init(self, MinGroupSize, DistanceThreshold, DistanceMetricType):
 def IsNoise(self, ArticleSet):
 	#count number of points within distance threshold
 	numClosePoints = 0
-	for pair in self.data:
-		if (self.useJaccard and Distance.DistanceJaccard(ArticleSet) >
+	for point in self.data:
+		if (self.useJaccard and Distance.DistanceJaccard(ArticleSet, point.keywords) <
+			self.threshold):
+				numClosePoints += 1
+		elif (not self.useJaccard and Distance.DistanceLevenstein(ArticleSet, point.keywords) <
 			self.threshold):
 				numClosePoints += 1
 
 	#if less than threshold, is noise point
 	if (numClosePoints < self.min):
 		return True
+	else:
+		return False
 
 def ClosestPoint(self, newSet):
-	pass
+	closestPoint = None
+	distance = 1000000
 
-def ClassifyCluster(self):
-	pass
+	for point in data:
+		pointDistance = distance + 1
+		if (self.useJaccard):
+				pointDistance = Distance.DistanceJaccard(ArticleSet, point.keywords)
+		elif (not self.useJaccard):
+				pointDistance = Distance.DistanceLevenstein(ArticleSet, point.keywords)
+
+		if (pointDistance < distance):
+			closestPoint = point
+			distance = pointDistance
+	return closestPoint
+
+def ClassifyCluster(self, point):
+    #if not, assign to closest cluster within threshold
+	closestPoint = self.ClosestPoint(ArticleTerms)
+	if (closestPoint is not None):
+		point.SetCluster(closestPoint.cluster)
+
+	#if no cluster exist, create new cluster and assign
+	else:
+		point.SetCluster(self.highestCluster)
+		self.highestCluster += 1
 
 def AddArticle(self, ArticleName, ArticleTerms):
 	point = ClusterPoint(ArticleName, ArticleTerms)
 
 	#check if point is noise
 	if (not self.IsNoise(ArticleTerms)):
-		#if not, assign to closest cluster within threshold
-		closestPoint = self.ClosestPoint(ArticleTerms)
-		if (closestPoint is not None):
-			point.SetCluster(closestPoint.cluster)
-
-		#if no cluster exist, create new cluster and assign
-		else:
-			point.SetCluster(self.highestCluster)
-			self.highestCluster += 1
+		self.ClassifyCluster(point)
 
 	self.data.append(point)
 
