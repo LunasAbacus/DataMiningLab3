@@ -23,16 +23,15 @@ class dbScanner:
 			self.useJaccard = True;
 		else:
 			self.useJaccard = False;
-		self.first = True
 
-	def IsNoise(self, ArticleSet):
+	def IsNoise(self, point):
 		#count number of points within distance threshold
 		numClosePoints = 0
-		for point in self.data:
-			if (self.useJaccard and Distance.DistanceJaccard(ArticleSet, point.keywords) <
+		for otherPoint in self.data:
+			if (self.useJaccard and Distance.DistanceJaccard(point.keywords, otherPoint.keywords) <
 				self.threshold):
 					numClosePoints += 1
-			elif (not self.useJaccard and Distance.DistanceLevenstein(ArticleSet, point.keywords) <
+			elif (not self.useJaccard and Distance.DistanceLevenstein(point.keywords, otherPoint.keywords) <
 				self.threshold):
 					numClosePoints += 1
 
@@ -44,7 +43,7 @@ class dbScanner:
 
 	def ClosestPoint(self, newSet):
 		closestPoint = None
-		distance = 1000000
+		distance = 0
 
 		for point in self.data:
 			pointDistance = distance + 1
@@ -53,7 +52,7 @@ class dbScanner:
 			elif (not self.useJaccard):
 					pointDistance = Distance.DistanceLevenstein(newSet, point.keywords)
 
-			if (pointDistance < distance and pointDistance < self.threshold):
+			if (pointDistance > distance and pointDistance > self.threshold):
 				closestPoint = point
 				distance = pointDistance
 		return closestPoint
@@ -61,7 +60,7 @@ class dbScanner:
 	def ClassifyCluster(self, point):
 	    #if not, assign to closest cluster within threshold
 		closestPoint = self.ClosestPoint(point.keywords)
-		if (closestPoint is not None):
+		if (closestPoint is not None and closestPoint.cluster is not 0):
 			point.SetCluster(closestPoint.cluster)
 
 		#if no cluster exist, create new cluster and assign
@@ -74,15 +73,16 @@ class dbScanner:
 		#   Article terms are a dictionary of Term:Number
 
 		point = CP(ArticleName, ArticleTerms)
-
-		#check if point is noise
-		if (not self.IsNoise(ArticleTerms)):
-			self.ClassifyCluster(point)
-
 		self.data.append(point)
 
-		#self.CleanUpOutliers()
+	def ClusterAllPoints(self):
 
+		for point in self.data:
+	        #check if point is noise
+			if (not self.IsNoise(point)):
+				self.ClassifyCluster(point)
+
+		self.CleanUpOutliers()
 
 	def CleanUpOutliers(self):
 		#Mental note, handle outliers that aren't noise
@@ -107,7 +107,15 @@ class dbScanner:
 				clusters[point.cluster] = []
 			clusters[point.cluster].append(point.articleName)
 
+			#now display a distance matrix
+			#for point2 in self.data:
+			#	print ("Distance between " + point.articleName + " : " + point2.articleName + "\n")
+			#	print ("	= " + str(Distance.DistanceJaccard(point.keywords, point2.keywords)) + "\n\n")
+
 		return clusters
+
+	def DistanceMatrix(self):
+		pass
 
 def main():
 	print ("This is an implementation of DBSCAN.")

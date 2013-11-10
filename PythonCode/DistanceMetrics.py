@@ -11,7 +11,7 @@
 #!/usr/bin/env python
 
 #http://nltk.org/api/nltk.metrics.html
-#import nltk.metrics.distance as Distance
+import nltk.metrics.distance as Distance
 
 def DistanceJaccard(set1, set2):
 	#first convert to two sets without
@@ -72,6 +72,8 @@ def main():
     #    str(Distance.edit_distance(['jim', 'sally', 'jack'], ['jack', 'jim', 'sally'])))
     #print("Jaccard Distance between ['sally', 'jim']) and set(['jim', 'sally'] = " +
     #    str(Distance.jaccard_distance(set(['sally', 'jim']), set(['jim', 'sally']))))
+	#print("Jaccard Distance custom = " +
+	#	str(Distance.jaccard_distance(set(['activities','america','borrowing']), set(['apples','borrowing','america','happiness']))))
 
 if __name__ == '__main__':
     main()

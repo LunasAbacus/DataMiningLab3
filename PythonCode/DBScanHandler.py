@@ -17,7 +17,9 @@ def main():
 	# number - Title|keyword1:keyword2
 
 	#create DBSCAN
-	dbscan = DB(1,0.5,'Jaccard')
+	# TODO - handle iterative clustering for old points
+	# Solution? Add all points in first, then iterate through while clustering
+	dbscan = DB(2,0.95,'Jaccard') #higher threshold => less similarity
 
 	with open('output-FeatureVectorDBScan.txt','r') as f:
 		#take apart line
@@ -30,7 +32,8 @@ def main():
 				#print(title + str(wordSet))
 				#print("\n\n")
 				dbscan.AddArticle(title, wordSet)
-				dbscan.CleanUpOutliers()
+
+	dbscan.ClusterAllPoints()
 
 	print("\n"+str(dbscan.ReturnClusters()))
 	print("\n\nDONE!")
