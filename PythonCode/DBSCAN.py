@@ -62,7 +62,10 @@ class dbScanner:
 		closestPoint = self.ClosestPoint(point.keywords)
 		if (closestPoint is not None and closestPoint.cluster is not 0):
 			point.SetCluster(closestPoint.cluster)
-
+		elif (closestPoint.cluster is 0):
+			point.SetCluster(self.highestCluster)
+			closestPoint.SetCluster(self.highestCluster)
+			self.highestCluster += 1
 		#if no cluster exist, create new cluster and assign
 		else:
 			point.SetCluster(self.highestCluster)
@@ -85,9 +88,6 @@ class dbScanner:
 		self.CleanUpOutliers()
 
 	def CleanUpOutliers(self):
-		#Mental note, handle outliers that aren't noise
-		#go through all the noise points cluster outliers
-		#if possible
 		# Outliers are points below min neighbor points, but
 		# within distance threshold of a cluster
 
@@ -102,7 +102,7 @@ class dbScanner:
 		clusters = {}
 
 		for point in self.data:
-			print("returning:" + str(point.cluster) + " | " + point.articleName)
+			#print("returning:" + str(point.cluster) + " | " + point.articleName)
 			if (point.cluster not in clusters):
 				clusters[point.cluster] = []
 			clusters[point.cluster].append(point.articleName)
