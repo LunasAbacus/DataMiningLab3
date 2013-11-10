@@ -58,19 +58,22 @@ def DistanceLevenstein(set1, set2):
     #       total += Distance.edit_distance(word1, word2)
 
 def main():
-    print "Perform sample distance calculations."
-    print("MASI Distance between ['funny', 'jack'] and ['jack', 'funny'] = " +
-        str(Distance.masi_distance(set(['funny', 'jack']), set(['jack', 'funny']))))
-    print("MASI Distance between ['funny', 'jack', 'sarah'] and ['jack', 'funny'] = " +
-        str(Distance.masi_distance(set(['funny', 'jack','sarah']), set(['jack', 'funny']))))
-    print ("Levenstein Distance between [dreadful, funny] = " +
-        str(Distance.edit_distance('dreadful', 'funny')))
-    print ("Levenstein Distance between [funny, funny] = " +
-        str(Distance.edit_distance('funny', 'funny')))
-    print ("Levenstein Distance between ['jim', 'sally', 'jack'] and ['jack', 'jim', 'sally'] = " +
-        str(Distance.edit_distance(['jim', 'sally', 'jack'], ['jack', 'jim', 'sally'])))
-    print("Jaccard Distance between ['sally', 'jim']) and set(['jim', 'sally'] = " +
-        str(Distance.jaccard_distance(set(['sally', 'jim']), set(['jim', 'sally']))))
+	pass
+    #print ("Perform sample distance calculations.")
+    #print("MASI Distance between ['funny', 'jack'] and ['jack', 'funny'] = " +
+    #    str(Distance.masi_distance(set(['funny', 'jack']), set(['jack', 'funny']))))
+    #print("MASI Distance between ['funny', 'jack', 'sarah'] and ['jack', 'funny'] = " +
+    #    str(Distance.masi_distance(set(['funny', 'jack','sarah']), set(['jack', 'funny']))))
+    #print ("Levenstein Distance between [dreadful, funny] = " +
+    #    str(Distance.edit_distance('dreadful', 'funny')))
+    #print ("Levenstein Distance between [funny, funny] = " +
+    #    str(Distance.edit_distance('funny', 'funny')))
+    #print ("Levenstein Distance between ['jim', 'sally', 'jack'] and ['jack', 'jim', 'sally'] = " +
+    #    str(Distance.edit_distance(['jim', 'sally', 'jack'], ['jack', 'jim', 'sally'])))
+    #print("Jaccard Distance between ['sally', 'jim']) and set(['jim', 'sally'] = " +
+    #    str(Distance.jaccard_distance(set(['sally', 'jim']), set(['jim', 'sally']))))
+	#print("Jaccard Distance custom = " +
+	#	str(Distance.jaccard_distance(set(['activities','america','borrowing']), set(['apples','borrowing','america','happiness']))))
 
 if __name__ == '__main__':
     main()
