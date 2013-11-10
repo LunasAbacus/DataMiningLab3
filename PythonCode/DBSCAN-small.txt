@@ -1,0 +1,101 @@
+1000-BAHIA COCOA REVIEW|reuter:trade:ended:covertible:weekly:superior:buyers:zone:late:weeks:
+1001-STANDARD OIL <SRD> TO FORM FINANCIAL UNIT|financial:money:manage:trading:committee:operated:investment:market:management:reuter:
+1002-TEXAS COMMERCE BANCSHARES <TCB> FILES PLAN|houston:county:currency:create:reuter:deposits:application:largest:harris:bancshares:
+1003-TALKING POINT/BANKAMERICA <BAC> EQUITY OFFER|birr:proposed:fenner:outlook:minimizing:merrill:issues:reduced:current:group:
+1004-NATIONAL AVERAGE PRICES FOR FARMER-OWNED RESERVE|lbs:national:owned:reserves:agriculture:feedgrain:reuter:matured:department:reflects:
+1005-ARGENTINE 1986/87 GRAIN/OILSEED REGISTRATIONS|detailed:grain:show:crop:month:linoil:maize:brackets:reuter:vegetable:
+1006-RED LION INNS FILES PLANS OFFERING|inns:proposed:loan:expects:registration:proceeds:unit:hotels:mortgage:dlr:
+1007-USX <X> DEBT DOWGRADED BY MOODY'S|unsecured:investors:positioned:facilities:added:return:marathon:service:profit:reuter:
+1008-CHAMPION PRODUCTS <CH> APPROVES STOCK SPLIT|reuter:increase:split:capital:meeting:voted:authorized:champion:company:recommend:
+1009-COMPUTER TERMINAL SYSTEMS <CPML> COMPLETES SALE|control:houston:exceed:reuter:ticket:outstanding:dot:licensee:years:tex:
+1010-COBANCO INC <CBCO> YEAR NET|qtr:assets:tax:reuter:deposits:includes:note:extraordinary:gain:year:
+1011-OHIO MATTRESS <OMT> MAY HAVE LOWER 1ST QTR NET|considerations:outstanding:issued:share:sales:related:expenses:middle:including:higher:
+1012-AM INTERNATIONAL INC <AM> 2ND QTR JAN 31|qtr:results:periods:exclude:reuter:note:carryforwards:nil:dividends:preferred:
+1013-BROWN-FORMAN INC <BFD> 4TH QTR NET|billion:mths:cts:reuter:dlr:dlrs:shr:net:revs:mln:
+1014-NATIONAL INTERGROUP<NII> TO OFFER PERMIAN UNITS|stake:acquired:price:file:registration:partner:plans:cumulative:pct:commission:
+1015-ECONOMIC SPOTLIGHT - BANKAMERICA <BAC>|birr:proposed:fenner:outlook:minimizing:merrill:issues:reduced:current:group:
+1016-NATIONAL HEALTH ENHANCEMENT <NHES> NEW PROGRAM|national:computer:enhancement:physical:reuter:system:systems:test:assessment:customers:
+1017-DEAN FOODS <DF> SEES STRONG 4TH QTR EARNINGS|benefit:howard:projection:kenneth:sales:december:ann:expects:years:mcd:
+1018-BONUS WHEAT FLOUR FOR NORTH YEMEN  -- USDA|purchases:initiative:pillsbury:tons:enhancement:march:agriculture:april:corporation:reuter:
+1019-CREDIT CARD DISCLOSURE BILLS INTRODUCED|shop:disclosure:financial:deal:prospective:senate:issued:promotional:sponsor:fees:
+1020-HUGHES CAPITAL UNIT SIGNS PACT WITH BEAR STEARNS|exclusive:photovoltaic:reuter:generating:replace:facilities:unit:design:conserdyne:investment:
+1021-MAGMA LOWERS COPPER 0.75 CENT TO 66 CTS|mining:effective:newmont:cents:price:reuter:cathode:cent:magma:cutting:
+1022-BROWN-FORMAN <BFDB> SETS STOCK SPLIT, UPS PAYOUT|operations:outlook:reasons:approved:declared:month:reported:shares:year:substantially:
+1023-ESQUIRE RADIO AND ELECTRONICS INC <EE> 4TH QTR|stockholders:mths:march:mln:note:prior:april:reuter:dividend:div:
+1024-SHEARSON LEHMAN NAMES NEW MANAGING DIRECTOR|merrill:fenner:unit:lehman:managing:robert:reuter:smith:brothers:company:
+1025-BANKERS REPORT BREAKTHROUGH ON VENEZUELAN DEBT|finalized:agreed:obtain:years:including:talks:announcement:acknowledge:suspension:easier:
+1026-UNITED PRESIDENTIAL CORP <UPCO> 4TH QTR NET|adjustment:business:universal:reuter:improvement:note:estimated:periods:include:life:
+1027-TOWER REPORT DIMINISHES REAGAN'S HOPES OF REBOUND|affair:reuter:certification:month:including:supporter:staff:blow:note:group:
+1028-JANUARY HOUSING SALES DROP, REALTY GROUP SAYS|adjusted:set:previously:national:tax:owned:dropped:unit:group:pace:
+1029-ASSETS OF MONEY MARKET MUTUAL FUNDS ROSE 720.4 MLN DLRS IN LATEST WEEK |emptySet
+1030-U.S. TAX WRITERS SEEK ESTATE TAX CURBS, RAISING 6.7 BILLION DLRS THRU 1991 |emptySet
+1031-SENATORS INTRODUCE EXPORT LICENSING REFORM BILL|control:development:reuter:facto:higher:national:reduce:play:actions:restrict:
+1032-EXCELAN INC SETS INITIAL STOCK OFFER|dlrs:designs:stockholders:offering:related:mln:initial:share:computer:products:
+1033-CCX NETWORK <CCXN> SECONDARY OFFERING UNDERWAY|dlrs:shareholders:selling:ccx:received:cazenove:exchange:share:proceeds:underwriters:
+1034-FIRST UNION <FUNC> FILES 100 MLN DLR NOTES ISSUE|managed:proposed:rate:shearson:underwriters:lehman:union:reuter:due:commission:
+1035-OWENS AND MINOR INC <OBOD> RAISES QTLY DIVIDEND|eights:pay:reuter:prior:qtly:div:record:march:cts:
+1036-COMPUTER LANGUAGE RESEARCH IN <CLRI> 4TH QTR|reuter:march:april:shareholders:note:prior:div:qtly:year:dividend:
+1037-<CINRAM LTD> 4TH QTR NET|reuter:year:dlrs:shr:cts:sales:shrs:net:avg:mln:
+1038-DU PONT CO <DD> LAUNCHES IMPROVED ARAMID FIBERS|metals:replace:high:variety:previous:strength:reuter:pct:late:company:
+1039-STANDARD TRUSTCO SEES BETTER YEAR|previously:share:expects:growth:year:provide:malley:reuter:recorded:increase:
+1040-HANDY AND HARMAN <HNH> 4TH QTR LOSS|reuter:qtr:months:restructuring:note:special:shr:profit:rev:includes:
+1041-ICO PRODUCERS TO PRESENT NEW COFFEE PROPOSAL|scheduled:producer:september:unchanged:resumption:evening:export:tomorrow:bags:consumers:
+1042-SHULTZ SAYS NO RESIGNATION OVER IRAN REPORT|criticism:declared:visit:reagan:scandal:george:harsh:attracted:reuter:administration:
+1043-MCLEAN'S <MII> U.S. LINES SETS ASSET TRANSFER|mclean:agreed:states:regulatory:including:mariotime:approval:negotiations:subject:industries:
+1044-CHEMLAWN <CHEM> RISES ON HOPES FOR HIGHER BIDS|shot:pointed:hands:valuable:held:rol:strohmaier:find:announcement:earned:
+1045-U.S. SUGAR IMPORTS DOWN IN WEEK - USDA|adjusted:set:weight:ended:weekly:agriculture:totaled:previous:compared:service:
+1046-BRAZIL ANTI-INFLATION PLAN LIMPS TO ANNIVERSARY|months:froze:averaging:domestic:increased:cruzado:currency:soaring:limping:year:
+1047-N.Z. OFFICIAL FOREIGN RESERVES FALL IN JANUARY|zealand:compared:january:official:year:period:foreign:reserves:bank:statistical:
+1048-AGENCY REPORTS 39 SHIPS WAITING AT PANAMA CANAL|operations:reuter:transit:expects:tomorrow:panama:agency:ships:due:vessels:
+1049-AMERICA FIRST MORTGAGE SETS SPECIAL PAYOUT|reuter:exchangeable:gains:mortgage:income:guaranteed:includes:return:fund:federally:
+1050-REPUBLICANS EYE BIGGER U.S. CONSERVATION RESERVE|force:headed:senate:expanding:charles:america:iowa:reuters:sen:erodible:
+1051-ARVIN INDS <ARV> PROMOTES EVANS TO PRESIDENT|industries:reuter:vice:remains:james:baker:executive:elected:chairman:arvin:
+1052-EMHART CORP <EMH> QTLY DIVIDEND|reuter:prior:payable:qtly:div:record:march:cts:
+1053-U.S. DATA POINT TO CAPITAL SPENDING SLOWDOWN|sector:office:caused:agreed:global:quarters:sluggish:lackluster:reacting:production:
+1054-SENATORS INTRODUCE EXPORT LICENSING REFORM BILL|control:development:reuter:facto:higher:national:reduce:play:actions:restrict:
+1055-AM INTERNATIONAL <AM> CITES STRONG PROSPECTS|division:acquired:dollar:period:introductions:range:allocated:decline:compared:prior:
+1056-CCC CREDITS FOR HONDURAS SWITCHED TO WHITE CORN|honduras:switched:previously:agriculture:guarantee:corporation:reuter:september:guarantees:registered:
+1057-ASSETS OF U.S. MONEY FUNDS ROSE IN WEEK|institutional:money:general:ended:dealer:market:mutual:reuter:investment:week:
+1058-GULF BARGE FREIGHT RATES UP FURTHER ON CALL|outlook:quoted:supply:quotes:session:freight:loadings:vessel:merchants:owensboro:
+1059-ARGENTINA COULD SUSPEND DEBT PAYMENTS - DEPUTY|week:declared:suspend:observer:deputy:reuter:radical:telephone:maintain:committee:
+1060-KEY U.S. TAX WRITERS SEEK ESTATE TAX CURBS|reuter:duncan:writing:promoting:esops:meant:means:dan:wealthy:republican:
+1061-TREASURY BALANCES AT FED ROSE ON FEB 25|loan:tax:budget:accounts:totaled:previous:respective:compared:federal:rose:
+1062-CANADA'S WILSON SEEKS TEMPORARY BORROWING|reuter:financial:previously:michael:period:reserves:parliamentary:granted:seeking:administration:
+1063-GULF APPLIED <GATS> SELLS UNITS, SEES GAIN|operations:owed:carryovers:gulf:federal:reuter:terminal:units:added:loss:
+1064-FARMERS GROUP INC <FGRP> 4TH QTR NET|billion:reuter:shrs:year:avg:dlrs:shr:cts:revs:net:
+1065-POTOMAC ELECTRIC POWER CO <POM> JAN NET|share:shrs:service:reuter:note:territory:resources:virginia:includes:gain:
+1066-SPRINGBOARD <SPBD> IN DEAL|reuter:san:chinese:computer:signed:employs:based:provide:personnel:support:
+1067-<COFAB INC> BUYS GULFEX FOR UNDISCLOSED AMOUNT|houston:process:energy:oil:utility:based:reuter:vessels:custom:acquired:
+1068-U.S. WEEKLY SOYBEAN CRUSH 21,782,929 BUSHELS|soybeans:national:crushing:ended:total:previous:feb:processors:reuter:member:
+1069-SCHULT HOMES OFFERING PRICED AT FIVE DLRS/UNIT|reuter:managed:producer:elkhart:september:issued:scott:ind:home:oldest:
+1070-TULTEX CORP <TTX> SETS QUARTERLY DIVIDEND|reuter:march:eights:pay:april:prior:qtly:div:record:cts:
+1071-BURLINGTON <BUR>  GETS 30.5 MLN DLR CONTRACT|industries:city:agency:menswear:division:logistics:received:contract:tropical:dlr:
+1072-ROCKWELL <ROK> GETS 28.3 MLN DLR B-1 CONTRACT|fiscal:received:reuter:force:rockwell:work:mln:contract:air:current:
+1073-ATICO FINANCIAL CORP <ATFC> 4TH QTR NET|companies:loan:share:year:amounts:reuter:pct:note:pan:exchange:
+1074-ICO EXPORTERS TO MODIFY NEW PROPOSAL|declarations:share:tonight:session:affect:talks:tomorrow:reuter:member:international:
+1075-U.S. COMMERCIAL PAPER FALLS 375 MLN DLRS IN FEB 18 WEEK, FED SAYS |emptySet
+1076-N.Y. BUSINESS LOANS FALL 195 MLN DLRS IN FEB 18 WEEK, FED SAYS |emptySet
+1077-NEW YORK BANK DISCOUNT WINDOW BORROWINGS 64 MLN DLRS IN FEB 25 WEEK |emptySet
+1078-QUEBECOR <PQB> HEAD SEES NEW VENTURES LIKELY|reuter:chain:unemployment:stream:move:years:including:teamed:committed:buyers:
+1079-NEW YORK BUSINESS LOANS FALL 195 MLN DLRS|scheduled:major:industrial:outstanding:national:ended:paper:including:dropped:declined:
+1080-N.Y. BANK DISCOUNT BORROWINGS 64 MLN DLRS|major:borrowing:national:period:marked:ended:city:est:federal:reuter:
+1081-PHILIPPINE LONG DISTANCE <PHI> YEAR NET|quoted:primary:rate:revs:record:reuter:diluted:long:day:note:
+1082-LIBERTY ALL-STAR EQUITY FUND INITIAL DIV|operations:reuter:march:payable:december:april:share:period:fund:includes:
+1083-COLUMBIA GAS SYSTEM INC <CG> REDEEMS DEBENTURES|mandatory:redeeming:requirements:addition:reuter:call:systems:company:gas:redeem:
+1084-COMBUSTION ENGINEERING INC <CSP> REGULAR DIV|reuter:pay:prior:qtly:div:record:april:cts:
+1085-TONKA CORP <TKA> RAISES DIVIDEND|pay:reuter:record:qtly:div:march:cts:
+1086-BDM INTERNATIONAL <BDM> INCREASES QTRLY DIVS|full:march:payable:bdm:note:april:reuter:international:record:annual:
+1087-SORG <SRG> STOCKHOLDERS FORM GROUP|composed:reuter:financial:proposed:consent:election:vote:sell:holdings:stockholders:
+1088-SYSTEMATICS INC <SYST> REGULAR PAYOUT|february:march:pay:reuter:prior:qtly:div:record:cts:
+1089-TEXAS INSTRUMENTS <TXN> DEVELOPS NEW CHIP|square:version:computer:centimeter:working:reuter:specifically:field:production:widely:
+1090-CONSOLIDATED GAS <CNG>UNIT SAYS NO RULES BROKEN|reuter:polychlorinated:successfully:cleaned:pit:biphenyls:federal:disposal:agency:system:
+1091-U.S. M-1 MONEY SUPPLY RISES 2.1 BILLION DLRS IN FEB 16 WEEK, FED SAYS |emptySet
+1092-<IVACO INC> YEAR NET|shr:canron:offering:cts:reuter:results:note:extraordinary:gain:net:
+1093-U.S. BANK DISCOUNT BORROWINGS AVERAGE 310 MLN DLRS IN FEB 25 WEEK, FED SAYS |emptySet
+1094-U.S. BANK NET FREE RESERVES 644 MLN DLRS IN TWO WEEKS TO FEB 25, FED SAYS |emptySet
+1095-INVESTMENT FIRMS CUT CYCLOPS <CYL> STAKE|reuter:outstanding:total:investment:mutual:stake:commission:firms:stock:led:
+1096-ASCS TERMINAL MARKET VALUES FOR PIK GRAIN|reuter:stabilization:grade:effective:soyb:yellow:agricultural:portland:port:unit:
+1097-CORADIAN CORP <CDIN> 4TH QTR NET|reuter:cent:shrs:year:avg:shr:mln:net:revs:cts:
+1098-|emptySet
+1099-N.Z. TRADING BANK DEPOSIT GROWTH RISES SLIGHTLY|adjusted:period:growth:trading:statistical:weekly:reuter:seasonally:increase:zealand:
+1100-|emptySet

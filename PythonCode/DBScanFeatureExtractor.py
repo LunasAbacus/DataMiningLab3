@@ -4,6 +4,8 @@
 from TagExtractor import ReuterRooter as RR
 import re
 import sys
+import operator
+import collections
 
 def AddToDict(daDic, word, blacklist):
     if (len(word) > 2) and (word not in blacklist):
@@ -25,7 +27,7 @@ def main():
 
 	print ("printing first " + str(sys.argv[1]) + "sgm files")
 
-	with open('output-FeatureVectorDBScan.txt','w') as wr:
+	with open('DBScan-mid.txt','w') as wr:
 		articleNumber = 1000
 
         #for i in range(0,23):
@@ -53,9 +55,15 @@ def main():
 				    #print token
 					AddToDict(article, token, blacklist)
 				wr.write("\n"+str(articleNumber)+"-"+title+"|")
-				for key in sorted(article.keys()):
+
+				#sort article words by number times seen
+				sorted_x = sorted(article.items(), key=operator.itemgetter(1))
+				for pair in sorted_x[0:10]:
+					wr.write(pair[0]+":")
+
+				#for key in sorted(article.keys()):
 				    #print key + ":" + str(article[key])
-					wr.write(key + ":")
+				#	wr.write(key + ":")
 				if (len(article) < 1):
 					wr.write("emptySet")
 				articleMap[title] = article
