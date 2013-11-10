@@ -27,7 +27,7 @@ def main():
 
 	print ("printing first " + str(sys.argv[1]) + "sgm files")
 
-	with open('DBScan-mid.txt','w') as wr:
+	with open('DBScan-large.txt','w') as wr:
 		articleNumber = 1000
 
         #for i in range(0,23):

@@ -48,10 +48,10 @@ def DistanceJaccard(set1, set2):
 		if (dataSet1[i] == dataSet2[i]):
 			union += 1
 
-	return union/len(setOfWords)
+	return 1.0 - union/len(setOfWords)
 
 def DistanceLevenstein(set1, set2):
-    pass
+    return Distance.edit_distance(set1, set2)
     #totalDistance = 0
     #for word1 in set1:
     #    for word2 in set2:
@@ -59,6 +59,8 @@ def DistanceLevenstein(set1, set2):
 
 def main():
 	pass
+	print ("Levenstein Distance between [funny, funny] = " +
+		str(Distance.edit_distance('funny', 'funny')))
     #print ("Perform sample distance calculations.")
     #print("MASI Distance between ['funny', 'jack'] and ['jack', 'funny'] = " +
     #    str(Distance.masi_distance(set(['funny', 'jack']), set(['jack', 'funny']))))

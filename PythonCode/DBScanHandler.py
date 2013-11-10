@@ -20,9 +20,11 @@ def main():
 	#create DBSCAN
 	# TODO - handle iterative clustering for old points
 	# Solution? Add all points in first, then iterate through while clustering
-	dbscan = DB(4,0.08,'Jaccard') #higher threshold => less similarity
 
-	with open('DBSCAN-small.txt','r') as f:
+	#dbscan = DB(2,0.9,'Jaccard')
+	dbscan = DB(2,0.9,'bla')
+
+	with open('DBSCAN-mid.txt','r') as f:
 		#take apart line
 		for line in f:
 			if (len(line) > 1):
@@ -32,7 +34,8 @@ def main():
 				#print(title+"\n")
 				#print(title + str(wordSet))
 				#print("\n\n")
-				dbscan.AddArticle(title, wordSet)
+				if (len(wordSet) > 2):
+					dbscan.AddArticle(title, wordSet)
 
 	print("\nStarted Clustering all points...\n\n")
 	startTime = time.time()
