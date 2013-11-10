@@ -62,9 +62,9 @@ class dbScanner:
 		closestPoint = self.ClosestPoint(point.keywords)
 		if (closestPoint is not None and closestPoint.cluster is not 0):
 			point.SetCluster(closestPoint.cluster)
-		elif (closestPoint.cluster is 0):
+		elif (closestPoint is not None and closestPoint.cluster is 0):
 			point.SetCluster(self.highestCluster)
-			closestPoint.SetCluster(self.highestCluster)
+			#closestPoint.SetCluster(self.highestCluster)
 			self.highestCluster += 1
 		#if no cluster exist, create new cluster and assign
 		else:

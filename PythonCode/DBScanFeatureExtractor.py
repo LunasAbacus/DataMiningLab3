@@ -58,7 +58,7 @@ def main():
 
 				#sort article words by number times seen
 				sorted_x = sorted(article.items(), key=operator.itemgetter(1))
-				for pair in sorted_x[0:10]:
+				for pair in sorted_x[0:20]:
 					wr.write(pair[0]+":")
 
 				#for key in sorted(article.keys()):

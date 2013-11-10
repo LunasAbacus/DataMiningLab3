@@ -48,7 +48,7 @@ def DistanceJaccard(set1, set2):
 		if (dataSet1[i] == dataSet2[i]):
 			union += 1
 
-	return 1.0 - union/len(setOfWords)
+	return union/len(setOfWords)
 
 def DistanceLevenstein(set1, set2):
     pass

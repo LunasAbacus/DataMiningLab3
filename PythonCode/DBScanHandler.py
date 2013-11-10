@@ -10,7 +10,8 @@
 #-------------------------------------------------------------------------------
 #!/usr/bin/env python
 
-from DBSCAN import dbScanner as DB
+from DBSCAN2 import dbScanner as DB
+import time
 
 def main():
 	# get articles in format
@@ -19,9 +20,9 @@ def main():
 	#create DBSCAN
 	# TODO - handle iterative clustering for old points
 	# Solution? Add all points in first, then iterate through while clustering
-	dbscan = DB(2,0.90,'Jaccard') #higher threshold => less similarity
+	dbscan = DB(4,0.08,'Jaccard') #higher threshold => less similarity
 
-	with open('output-FeatureVectorDBScan.txt','r') as f:
+	with open('DBSCAN-small.txt','r') as f:
 		#take apart line
 		for line in f:
 			if (len(line) > 1):
@@ -34,7 +35,11 @@ def main():
 				dbscan.AddArticle(title, wordSet)
 
 	print("\nStarted Clustering all points...\n\n")
+	startTime = time.time()
 	dbscan.ClusterAllPoints()
+	endTime = time.time()
+
+	print("Time elapsed = " + str(endTime - startTime) + " seconds")
 
     #print("\n"+str(dbscan.ReturnClusters()))
 
