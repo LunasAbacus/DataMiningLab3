@@ -52,15 +52,11 @@ def DistanceJaccard(set1, set2):
 
 def DistanceLevenstein(set1, set2):
     return Distance.edit_distance(set1, set2)
-    #totalDistance = 0
-    #for word1 in set1:
-    #    for word2 in set2:
-    #       total += Distance.edit_distance(word1, word2)
 
 def main():
 	pass
-	print ("Levenstein Distance between [funny, funny] = " +
-		str(Distance.edit_distance('funny', 'funny')))
+	print ("Levenstein Distance between [candy, candies] = " +
+		str(Distance.edit_distance('candy', 'candies')))
     #print ("Perform sample distance calculations.")
     #print("MASI Distance between ['funny', 'jack'] and ['jack', 'funny'] = " +
     #    str(Distance.masi_distance(set(['funny', 'jack']), set(['jack', 'funny']))))

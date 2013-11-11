@@ -47,14 +47,19 @@ class dbScanner:
 		else:
 			#check if point in neighborhood is core point
 			for corePoint in self.corePoints:
-				if(self.PointDistance(corePoint, point) < self.threshold):
+				if(self.PointDistance(corePoint, point)<
+				self.threshold):
 					self.borderPoints.append(point)
 					return
+			self.noisePoints.append(point)
+
+	def SetParameters(self,MinGroupSize, DistanceThreshold):
+		self.min = MinGroupSize
+		self.threshold = DistanceThreshold
 
 	def AddArticle(self, ArticleName, ArticleTerms):
 		# take only the top x terms from ArticleTerms
 		#   Article terms are a dictionary of Term:Number
-
 		point = CP(ArticleName, ArticleTerms)
 		self.data.append(point)
 
@@ -63,16 +68,26 @@ class dbScanner:
 		for point in self.data:
 			self.ClassifyCluster(point)
 
-		print("# core points: " + str(len(self.corePoints)) + "\n")
-		print("# bord points: " + str(len(self.borderPoints)) + "\n")
+		#print("# core points: " + str(len(self.corePoints)))
+		#print("# bord points: " + str(len(self.borderPoints)))
 
 		for corePoint in self.corePoints:
 			if (corePoint.cluster == 0):
 				self.highestCluster += 1
 				corePoint.cluster = self.highestCluster
 			for borderPoint in self.borderPoints:
-				if (borderPoint.cluster==0 and self.PointDistance(borderPoint,corePoint)<self.threshold):
+				if (borderPoint.cluster==0 and
+				self.PointDistance(borderPoint,corePoint)<
+				self.threshold):
+					#print("Clustered core point and border point")
 					borderPoint.cluster = self.highestCluster
+     		for otherCorePoint in self.corePoints:
+				if (otherCorePoint.cluster==0 and
+				self.PointDistance(otherCorePoint,corePoint)<
+				self.threshold):
+					#print("Clustered two core points")
+					otherCorePoint.cluster = self.highestCluster
+
 
 	def ReturnClusters(self):
 		clusters = {}

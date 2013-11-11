@@ -1,100 +1,999 @@
-1000-BAHIA COCOA REVIEW|reuter:trade:ended:covertible:weekly:superior:buyers:zone:late:weeks:harvesting:good:fob:means:early:hands:exporters:continued:cruzados:held:
-1001-STANDARD OIL <SRD> TO FORM FINANCIAL UNIT|financial:money:manage:trading:committee:operated:investment:market:management:reuter:petroleum:pct:companies:interest:oversight:activities:form:joint:plc:plan:
-1002-TEXAS COMMERCE BANCSHARES <TCB> FILES PLAN|houston:county:currency:create:reuter:deposits:application:largest:harris:bancshares:filed:effort:comptroller:assets:banking:banks:link:network:texas:dlrs:
-1003-TALKING POINT/BANKAMERICA <BAC> EQUITY OFFER|birr:proposed:fenner:outlook:minimizing:merrill:issues:reduced:current:group:nervous:ease:smith:weeks:term:preferred:lynch:immediately:bancorp:bank:
-1004-NATIONAL AVERAGE PRICES FOR FARMER-OWNED RESERVE|lbs:national:owned:reserves:agriculture:feedgrain:reuter:matured:department:reflects:farmer:reported:covers:july:iii:day:february:january:average:oats:
-1005-ARGENTINE 1986/87 GRAIN/OILSEED REGISTRATIONS|detailed:grain:show:crop:month:linoil:maize:brackets:reuter:vegetable:figures:thousands:oilseeds:shipments:showing:jul:oilseed:linseed:sunoil:bread:
-1006-RED LION INNS FILES PLANS OFFERING|inns:proposed:loan:expects:registration:proceeds:unit:hotels:mortgage:dlr:reuter:commission:statement:units:interests:finance:exchange:company:priced:filed:
-1007-USX <X> DEBT DOWGRADED BY MOODY'S|unsecured:investors:positioned:facilities:added:return:marathon:service:profit:reuter:negative:appears:late:field:production:units:include:establishment:steel:oil:
-1008-CHAMPION PRODUCTS <CH> APPROVES STOCK SPLIT|reuter:increase:split:capital:meeting:voted:authorized:champion:company:recommend:approved:annual:record:directors:products:common:shareholders:april:shares:mln:
-1009-COMPUTER TERMINAL SYSTEMS <CPML> COMPLETES SALE|control:houston:exceed:reuter:ticket:outstanding:dot:licensee:years:tex:including:improvements:operation:total:occur:market:impact:lugano:moves:holdings:
-1010-COBANCO INC <CBCO> YEAR NET|qtr:assets:tax:reuter:deposits:includes:note:extraordinary:gain:year:carry:net:loans:dlrs:shr:cts:mln:
-1011-OHIO MATTRESS <OMT> MAY HAVE LOWER 1ST QTR NET|considerations:outstanding:issued:share:sales:related:expenses:middle:including:higher:substantially:decline:earned:reuter:pct:mattress:current:noting:capital:administrative:
-1012-AM INTERNATIONAL INC <AM> 2ND QTR JAN 31|qtr:results:periods:exclude:reuter:note:carryforwards:nil:dividends:preferred:credits:operating:net:payment:calculated:prior:shrs:avg:revs:loss:
-1013-BROWN-FORMAN INC <BFD> 4TH QTR NET|billion:mths:cts:reuter:dlr:dlrs:shr:net:revs:mln:
-1014-NATIONAL INTERGROUP<NII> TO OFFER PERMIAN UNITS|stake:acquired:price:file:registration:partner:plans:cumulative:pct:commission:statement:offered:manage:offering:exchange:formed:preferred:corp:retaining:convertible:
-1015-ECONOMIC SPOTLIGHT - BANKAMERICA <BAC>|birr:proposed:fenner:outlook:minimizing:merrill:issues:reduced:current:group:nervous:ease:smith:weeks:term:preferred:lynch:immediately:bancorp:bank:
-1016-NATIONAL HEALTH ENHANCEMENT <NHES> NEW PROGRAM|national:computer:enhancement:physical:reuter:system:systems:test:assessment:customers:offering:company:fitness:implementing:generated:report:line:condition:improve:programs:
-1017-DEAN FOODS <DF> SEES STRONG 4TH QTR EARNINGS|benefit:howard:projection:kenneth:sales:december:ann:expects:years:mcd:blenders:arrangements:corp:pct:japan:mcdonalds:milk:blender:canada:derive:
-1018-BONUS WHEAT FLOUR FOR NORTH YEMEN  -- USDA|purchases:initiative:pillsbury:tons:enhancement:march:agriculture:april:corporation:reuter:long:program:inventory:shipment:department:announced:complete:form:offer:company:
-1019-CREDIT CARD DISCLOSURE BILLS INTRODUCED|shop:disclosure:financial:deal:prospective:senate:issued:promotional:sponsor:fees:sen:requiring:arm:conn:solicitation:consumers:reuter:rates:interest:house:
-1020-HUGHES CAPITAL UNIT SIGNS PACT WITH BEAR STEARNS|exclusive:photovoltaic:reuter:generating:replace:facilities:unit:design:conserdyne:investment:market:develop:alternate:contained:electrical:capital:public:municipalities:company:financing:
-1021-MAGMA LOWERS COPPER 0.75 CENT TO 66 CTS|mining:effective:newmont:cents:price:reuter:cathode:cent:magma:cutting:corp:immediately:subsidiary:copper:
-1022-BROWN-FORMAN <BFDB> SETS STOCK SPLIT, UPS PAYOUT|operations:outlook:reasons:approved:declared:month:reported:shares:year:substantially:declined:expected:reuter:due:dlr:charge:beverage:rates:cited:today:
-1023-ESQUIRE RADIO AND ELECTRONICS INC <EE> 4TH QTR|stockholders:mths:march:mln:note:prior:april:reuter:dividend:div:record:payable:loss:shr:annual:net:revs:cts:profit:
-1024-SHEARSON LEHMAN NAMES NEW MANAGING DIRECTOR|merrill:fenner:unit:lehman:managing:robert:reuter:smith:brothers:company:express:pierce:director:part:lynch:mer:acquisitions:axp:joined:american:
-1025-BANKERS REPORT BREAKTHROUGH ON VENEZUELAN DEBT|finalized:agreed:obtain:years:including:talks:announcement:acknowledge:suspension:easier:hope:coincidental:march:finance:number:schedules:desire:february:drop:intermittently:
-1026-UNITED PRESIDENTIAL CORP <UPCO> 4TH QTR NET|adjustment:business:universal:reuter:improvement:note:estimated:periods:include:life:results:year:revs:net:dlrs:shr:cts:mln:
-1027-TOWER REPORT DIMINISHES REAGAN'S HOPES OF REBOUND|affair:reuter:certification:month:including:supporter:staff:blow:note:group:anvil:fix:expectations:institution:reasons:reuters:stephen:turnaround:remaining:texas:
-1028-JANUARY HOUSING SALES DROP, REALTY GROUP SAYS|adjusted:set:previously:national:tax:owned:dropped:unit:group:pace:reuter:pct:seasonally:treatment:capital:john:gains:seeking:sellers:realtors:
-1029-ASSETS OF MONEY MARKET MUTUAL FUNDS ROSE 720.4 MLN DLRS IN LATEST WEEK |emptySet
+
+1000-BAHIA COCOA REVIEW|cocoa:
+1001-STANDARD OIL <SRD> TO FORM FINANCIAL UNIT|financial:money:manage:trading:committee:
+1002-TEXAS COMMERCE BANCSHARES <TCB> FILES PLAN|houston:county:currency:create:reuter:
+1003-TALKING POINT/BANKAMERICA <BAC> EQUITY OFFER|birr:proposed:fenner:outlook:minimizing:
+1004-NATIONAL AVERAGE PRICES FOR FARMER-OWNED RESERVE|grain:wheat:corn:barley:oat:sorghum:
+1005-ARGENTINE 1986/87 GRAIN/OILSEED REGISTRATIONS|veg:oil:linseed:lin:oil:soy:oil:sun:oil:soybean:oilseed:corn:sunseed:grain:sorghum:wheat:
+1006-RED LION INNS FILES PLANS OFFERING|inns:proposed:loan:expects:registration:
+1007-USX <X> DEBT DOWGRADED BY MOODY'S|unsecured:investors:positioned:facilities:added:
+1008-CHAMPION PRODUCTS <CH> APPROVES STOCK SPLIT|earn:
+1009-COMPUTER TERMINAL SYSTEMS <CPML> COMPLETES SALE|acq:
+1010-COBANCO INC <CBCO> YEAR NET|earn:
+1011-OHIO MATTRESS <OMT> MAY HAVE LOWER 1ST QTR NET|earn:acq:
+1012-AM INTERNATIONAL INC <AM> 2ND QTR JAN 31|earn:
+1013-BROWN-FORMAN INC <BFD> 4TH QTR NET|earn:
+1014-NATIONAL INTERGROUP<NII> TO OFFER PERMIAN UNITS|stake:acquired:price:file:registration:
+1015-ECONOMIC SPOTLIGHT - BANKAMERICA <BAC>|birr:proposed:fenner:outlook:minimizing:
+1016-NATIONAL HEALTH ENHANCEMENT <NHES> NEW PROGRAM|national:computer:enhancement:physical:reuter:
+1017-DEAN FOODS <DF> SEES STRONG 4TH QTR EARNINGS|earn:
+1018-BONUS WHEAT FLOUR FOR NORTH YEMEN  -- USDA|wheat:grain:
+1019-CREDIT CARD DISCLOSURE BILLS INTRODUCED|shop:disclosure:financial:deal:prospective:
+1020-HUGHES CAPITAL UNIT SIGNS PACT WITH BEAR STEARNS|exclusive:photovoltaic:reuter:generating:replace:
+1021-MAGMA LOWERS COPPER 0.75 CENT TO 66 CTS|copper:
+1022-BROWN-FORMAN <BFDB> SETS STOCK SPLIT, UPS PAYOUT|earn:
+1023-ESQUIRE RADIO AND ELECTRONICS INC <EE> 4TH QTR|earn:
+1024-SHEARSON LEHMAN NAMES NEW MANAGING DIRECTOR|merrill:fenner:unit:lehman:managing:
+1025-BANKERS REPORT BREAKTHROUGH ON VENEZUELAN DEBT|finalized:agreed:obtain:years:including:
+1026-UNITED PRESIDENTIAL CORP <UPCO> 4TH QTR NET|earn:
+1027-TOWER REPORT DIMINISHES REAGAN'S HOPES OF REBOUND|affair:reuter:certification:month:including:
+1028-JANUARY HOUSING SALES DROP, REALTY GROUP SAYS|housing:
+1029-ASSETS OF MONEY MARKET MUTUAL FUNDS ROSE 720.4 MLN DLRS IN LATEST WEEK |money:supply:emptySet
 1030-U.S. TAX WRITERS SEEK ESTATE TAX CURBS, RAISING 6.7 BILLION DLRS THRU 1991 |emptySet
-1031-SENATORS INTRODUCE EXPORT LICENSING REFORM BILL|control:development:reuter:facto:higher:national:reduce:play:actions:restrict:fold:defense:market:preventing:requirements:activities:reform:leading:unduly:legislation:
-1032-EXCELAN INC SETS INITIAL STOCK OFFER|dlrs:designs:stockholders:offering:related:mln:initial:share:computer:products:common:reuter:making:company:public:manufactures:stock:sold:excelan:shares:
-1033-CCX NETWORK <CCXN> SECONDARY OFFERING UNDERWAY|dlrs:shareholders:selling:ccx:received:cazenove:exchange:share:proceeds:underwriters:network:including:reuter:businesses:stephens:receiving:behalf:offering:shares:stock:
-1034-FIRST UNION <FUNC> FILES 100 MLN DLR NOTES ISSUE|managed:proposed:rate:shearson:underwriters:lehman:union:reuter:due:commission:brothers:nationwide:exchange:sold:corp:filed:subordinated:dlrs:mln:securities:
-1035-OWENS AND MINOR INC <OBOD> RAISES QTLY DIVIDEND|eights:pay:reuter:prior:qtly:div:record:march:cts:
-1036-COMPUTER LANGUAGE RESEARCH IN <CLRI> 4TH QTR|reuter:march:april:shareholders:note:prior:div:qtly:year:dividend:payable:record:shr:net:revs:loss:profit:mln:cts:
-1037-<CINRAM LTD> 4TH QTR NET|reuter:year:dlrs:shr:cts:sales:shrs:net:avg:mln:
-1038-DU PONT CO <DD> LAUNCHES IMPROVED ARAMID FIBERS|metals:replace:high:variety:previous:strength:reuter:pct:late:company:product:devloped:absorbs:invented:moister:steel:absorbant:aluminum:basis:equal:
-1039-STANDARD TRUSTCO SEES BETTER YEAR|previously:share:expects:growth:year:provide:malley:reuter:recorded:increase:brian:rates:earnings:interest:stable:expected:conditions:economy:return:equity:
-1040-HANDY AND HARMAN <HNH> 4TH QTR LOSS|reuter:qtr:months:restructuring:note:special:shr:profit:rev:includes:charge:tax:share:dlrs:net:cts:mln:loss:
-1041-ICO PRODUCERS TO PRESENT NEW COFFEE PROPOSAL|scheduled:producer:september:unchanged:resumption:evening:export:tomorrow:bags:consumers:quota:reuter:quotas:contact:international:meeting:firm:coffee:totalling:earlier:
-1042-SHULTZ SAYS NO RESIGNATION OVER IRAN REPORT|criticism:declared:visit:reagan:scandal:george:harsh:attracted:reuter:administration:arms:long:crisis:commission:state:role:travelling:today:failings:week:
-1043-MCLEAN'S <MII> U.S. LINES SETS ASSET TRANSFER|mclean:agreed:states:regulatory:including:mariotime:approval:negotiations:subject:industries:united:court:service:reuter:charters:transport:expected:bodies:bankruptcy:conditions:
-1044-CHEMLAWN <CHEM> RISES ON HOPES FOR HIGHER BIDS|shot:pointed:hands:valuable:held:rol:strohmaier:find:announcement:earned:residential:late:offers:board:thousands:interested:regularly:customers:march:garden:
-1045-U.S. SUGAR IMPORTS DOWN IN WEEK - USDA|adjusted:set:weight:ended:weekly:agriculture:totaled:previous:compared:service:basis:initial:subject:extended:polarizations:customs:data:reuter:received:actual:
-1046-BRAZIL ANTI-INFLATION PLAN LIMPS TO ANNIVERSARY|months:froze:averaging:domestic:increased:cruzado:currency:soaring:limping:year:home:economist:crisis:worse:brazil:debt:service:needed:monthly:leading:
-1047-N.Z. OFFICIAL FOREIGN RESERVES FALL IN JANUARY|zealand:compared:january:official:year:period:foreign:reserves:bank:statistical:december:reuter:weekly:bulletin:fell:reserve:dlrs:billion:
-1048-AGENCY REPORTS 39 SHIPS WAITING AT PANAMA CANAL|operations:reuter:transit:expects:tomorrow:panama:agency:ships:due:vessels:commission:today:scheduled:tankers:north:government:enter:early:regular:report:
-1049-AMERICA FIRST MORTGAGE SETS SPECIAL PAYOUT|reuter:exchangeable:gains:mortgage:income:guaranteed:includes:return:fund:federally:unit:capital:making:distribution:america:special:cts:
-1050-REPUBLICANS EYE BIGGER U.S. CONSERVATION RESERVE|force:headed:senate:expanding:charles:america:iowa:reuters:sen:erodible:drafting:increase:group:majority:robert:reuter:legislation:current:farm:conservation:
-1051-ARVIN INDS <ARV> PROMOTES EVANS TO PRESIDENT|industries:reuter:vice:remains:james:baker:executive:elected:chairman:arvin:succeeding:evans:president:
-1052-EMHART CORP <EMH> QTLY DIVIDEND|reuter:prior:payable:qtly:div:record:march:cts:
-1053-U.S. DATA POINT TO CAPITAL SPENDING SLOWDOWN|sector:office:caused:agreed:global:quarters:sluggish:lackluster:reacting:production:weakening:factor:cautioned:easter:real:increased:couple:anticipated:early:lengthening:
-1054-SENATORS INTRODUCE EXPORT LICENSING REFORM BILL|control:development:reuter:facto:higher:national:reduce:play:actions:restrict:fold:defense:market:preventing:requirements:activities:reform:leading:unduly:legislation:
-1055-AM INTERNATIONAL <AM> CITES STRONG PROSPECTS|division:acquired:dollar:period:introductions:range:allocated:decline:compared:prior:revenues:reuter:benefit:research:dlr:fourth:capital:expected:development:basis:
-1056-CCC CREDITS FOR HONDURAS SWITCHED TO WHITE CORN|honduras:switched:previously:agriculture:guarantee:corporation:reuter:september:guarantees:registered:announced:earmarked:coverage:commodity:reduces:creates:shipped:action:ccc:cover:
-1057-ASSETS OF U.S. MONEY FUNDS ROSE IN WEEK|institutional:money:general:ended:dealer:market:mutual:reuter:investment:week:increased:company:broker:yesterday:purpose:institute:assets:rose:funds:billion:
-1058-GULF BARGE FREIGHT RATES UP FURTHER ON CALL|outlook:quoted:supply:quotes:session:freight:loadings:vessel:merchants:owensboro:section:reuter:ships:station:call:rates:percentage:increasing:today:exchange:
-1059-ARGENTINA COULD SUSPEND DEBT PAYMENTS - DEPUTY|week:declared:suspend:observer:deputy:reuter:radical:telephone:maintain:committee:talks:follow:nations:targets:brazil:creditor:divided:pct:day:station:
-1060-KEY U.S. TAX WRITERS SEEK ESTATE TAX CURBS|reuter:duncan:writing:promoting:esops:meant:means:dan:wealthy:republican:enacted:committees:die:taxes:individuals:sham:reduce:tex:sen:estimated:
-1061-TREASURY BALANCES AT FED ROSE ON FEB 25|loan:tax:budget:accounts:totaled:previous:respective:compared:federal:rose:reuter:cash:note:statement:business:fell:operating:day:balance:days:
-1062-CANADA'S WILSON SEEKS TEMPORARY BORROWING|reuter:financial:previously:michael:period:reserves:parliamentary:granted:seeking:administration:thursday:increase:program:statement:treasury:announced:parliament:temporary:finance:sufficient:
-1063-GULF APPLIED <GATS> SELLS UNITS, SEES GAIN|operations:owed:carryovers:gulf:federal:reuter:terminal:units:added:loss:sold:operating:gain:offset:technologies:applied:pipeline:transaction:taxes:record:
-1064-FARMERS GROUP INC <FGRP> 4TH QTR NET|billion:reuter:shrs:year:avg:dlrs:shr:cts:revs:net:mln:
-1065-POTOMAC ELECTRIC POWER CO <POM> JAN NET|share:shrs:service:reuter:note:territory:resources:virginia:includes:gain:sale:dominion:latest:avg:revs:billion:dlrs:mths:net:shr:
-1066-SPRINGBOARD <SPBD> IN DEAL|reuter:san:chinese:computer:signed:employs:based:provide:personnel:support:shanghai:development:francisco:programmers:supervisors:corp:specialists:designers:technical:contract:
-1067-<COFAB INC> BUYS GULFEX FOR UNDISCLOSED AMOUNT|houston:process:energy:oil:utility:based:reuter:vessels:custom:acquired:cooling:systems:gulfex:manufacture:lubricating:gas:pressure:group:marine:high:
-1068-U.S. WEEKLY SOYBEAN CRUSH 21,782,929 BUSHELS|soybeans:national:crushing:ended:total:previous:feb:processors:reuter:member:figures:firms:include:exports:reporting:crushed:capacity:meal:soybean:compared:
-1069-SCHULT HOMES OFFERING PRICED AT FIVE DLRS/UNIT|reuter:managed:producer:elkhart:september:issued:scott:ind:home:oldest:proceeds:based:offering:pay:granted:initial:connection:note:consits:warrant:
-1070-TULTEX CORP <TTX> SETS QUARTERLY DIVIDEND|reuter:march:eights:pay:april:prior:qtly:div:record:cts:
-1071-BURLINGTON <BUR>  GETS 30.5 MLN DLR CONTRACT|industries:city:agency:menswear:division:logistics:received:contract:tropical:dlr:york:yards:reuter:cloth:mln:defense:burlington:
-1072-ROCKWELL <ROK> GETS 28.3 MLN DLR B-1 CONTRACT|fiscal:received:reuter:force:rockwell:work:mln:contract:air:current:dlr:corp:year:international:bomber:
-1073-ATICO FINANCIAL CORP <ATFC> 4TH QTR NET|companies:loan:share:year:amounts:reuter:pct:note:pan:exchange:peninsula:corp:gain:merger:ncnb:america:association:atico:purusant:january:
-1074-ICO EXPORTERS TO MODIFY NEW PROPOSAL|declarations:share:tonight:session:affect:talks:tomorrow:reuter:member:international:proposal:include:coffee:shortfall:splinter:modify:delegates:producers:importers:informally:
-1075-U.S. COMMERCIAL PAPER FALLS 375 MLN DLRS IN FEB 18 WEEK, FED SAYS |emptySet
-1076-N.Y. BUSINESS LOANS FALL 195 MLN DLRS IN FEB 18 WEEK, FED SAYS |emptySet
-1077-NEW YORK BANK DISCOUNT WINDOW BORROWINGS 64 MLN DLRS IN FEB 25 WEEK |emptySet
-1078-QUEBECOR <PQB> HEAD SEES NEW VENTURES LIKELY|reuter:chain:unemployment:stream:move:years:including:teamed:committed:buyers:heavily:reuters:announce:prevented:bid:early:sons:foreigners:projects:govvernment:
-1079-NEW YORK BUSINESS LOANS FALL 195 MLN DLRS|scheduled:major:industrial:outstanding:national:ended:paper:including:dropped:declined:federal:data:reuter:loan:week:business:friday:nationally:released:fell:
-1080-N.Y. BANK DISCOUNT BORROWINGS 64 MLN DLRS|major:borrowing:national:period:marked:ended:city:est:federal:reuter:due:window:statement:gmt:occurred:yesterday:discount:york:data:bank:
-1081-PHILIPPINE LONG DISTANCE <PHI> YEAR NET|quoted:primary:rate:revs:record:reuter:diluted:long:day:note:net:full:march:exchange:dollar:telephone:payable:declaration:div:distance:
-1082-LIBERTY ALL-STAR EQUITY FUND INITIAL DIV|operations:reuter:march:payable:december:april:share:period:fund:includes:note:record:novebmer:qtly:dividend:div:beginning:commencement:special:cts:
-1083-COLUMBIA GAS SYSTEM INC <CG> REDEEMS DEBENTURES|mandatory:redeeming:requirements:addition:reuter:call:systems:company:gas:redeem:optional:redemption:meet:series:due:sinking:columbia:fund:principal:pct:
-1084-COMBUSTION ENGINEERING INC <CSP> REGULAR DIV|reuter:pay:prior:qtly:div:record:april:cts:
-1085-TONKA CORP <TKA> RAISES DIVIDEND|pay:reuter:record:qtly:div:march:cts:
-1086-BDM INTERNATIONAL <BDM> INCREASES QTRLY DIVS|full:march:payable:bdm:note:april:reuter:international:record:annual:prior:div:class:cts:
-1087-SORG <SRG> STOCKHOLDERS FORM GROUP|composed:reuter:financial:proposed:consent:election:vote:sell:holdings:stockholders:details:boston:body:provide:corp:advisor:immediately:entire:retained:aims:
-1088-SYSTEMATICS INC <SYST> REGULAR PAYOUT|february:march:pay:reuter:prior:qtly:div:record:cts:
-1089-TEXAS INSTRUMENTS <TXN> DEVELOPS NEW CHIP|square:version:computer:centimeter:working:reuter:specifically:field:production:widely:developed:measuring:added:microprocessor:programmers:applications:densest:bit:lisp:langugage:
-1090-CONSOLIDATED GAS <CNG>UNIT SAYS NO RULES BROKEN|reuter:polychlorinated:successfully:cleaned:pit:biphenyls:federal:disposal:agency:system:earthen:company:regulations:reported:protection:corp:natural:environmental:transmission:compliance:
-1091-U.S. M-1 MONEY SUPPLY RISES 2.1 BILLION DLRS IN FEB 16 WEEK, FED SAYS |emptySet
-1092-<IVACO INC> YEAR NET|shr:canron:offering:cts:reuter:results:note:extraordinary:gain:net:include:revs:unit:secondary:billion:share:dlrs:
-1093-U.S. BANK DISCOUNT BORROWINGS AVERAGE 310 MLN DLRS IN FEB 25 WEEK, FED SAYS |emptySet
-1094-U.S. BANK NET FREE RESERVES 644 MLN DLRS IN TWO WEEKS TO FEB 25, FED SAYS |emptySet
-1095-INVESTMENT FIRMS CUT CYCLOPS <CYL> STAKE|reuter:outstanding:total:investment:mutual:stake:commission:firms:stock:led:exchange:sold:lowered:york:affiliated:dlrs:feb:mln:securities:filing:
-1096-ASCS TERMINAL MARKET VALUES FOR PIK GRAIN|reuter:stabilization:grade:effective:soyb:yellow:agricultural:portland:port:unit:established:balt:evnsvlle:service:corporation:rye:cwt:conservation:norf:certificates:
-1097-CORADIAN CORP <CDIN> 4TH QTR NET|reuter:cent:shrs:year:avg:shr:mln:net:revs:cts:loss:profit:
-1098-|emptySet
-1099-N.Z. TRADING BANK DEPOSIT GROWTH RISES SLIGHTLY|adjusted:period:growth:trading:statistical:weekly:reuter:seasonally:increase:zealand:dlrs:deposit:release:reserve:total:deposits:rise:bank:december:compared:
+1031-SENATORS INTRODUCE EXPORT LICENSING REFORM BILL|control:development:reuter:facto:higher:
+1032-EXCELAN INC SETS INITIAL STOCK OFFER|dlrs:designs:stockholders:offering:related:
+1033-CCX NETWORK <CCXN> SECONDARY OFFERING UNDERWAY|dlrs:shareholders:selling:ccx:received:
+1034-FIRST UNION <FUNC> FILES 100 MLN DLR NOTES ISSUE|managed:proposed:rate:shearson:underwriters:
+1035-OWENS AND MINOR INC <OBOD> RAISES QTLY DIVIDEND|earn:
+1036-COMPUTER LANGUAGE RESEARCH IN <CLRI> 4TH QTR|earn:
+1037-<CINRAM LTD> 4TH QTR NET|earn:
+1038-DU PONT CO <DD> LAUNCHES IMPROVED ARAMID FIBERS|metals:replace:high:variety:previous:
+1039-STANDARD TRUSTCO SEES BETTER YEAR|earn:
+1040-HANDY AND HARMAN <HNH> 4TH QTR LOSS|earn:
+1041-ICO PRODUCERS TO PRESENT NEW COFFEE PROPOSAL|coffee:
+1042-SHULTZ SAYS NO RESIGNATION OVER IRAN REPORT|criticism:declared:visit:reagan:scandal:
+1043-MCLEAN'S <MII> U.S. LINES SETS ASSET TRANSFER|acq:ship:
+1044-CHEMLAWN <CHEM> RISES ON HOPES FOR HIGHER BIDS|acq:
+1045-U.S. SUGAR IMPORTS DOWN IN WEEK - USDA|sugar:
+1046-BRAZIL ANTI-INFLATION PLAN LIMPS TO ANNIVERSARY|trade:
+1047-N.Z. OFFICIAL FOREIGN RESERVES FALL IN JANUARY|reserves:
+1048-AGENCY REPORTS 39 SHIPS WAITING AT PANAMA CANAL|ship:
+1049-AMERICA FIRST MORTGAGE SETS SPECIAL PAYOUT|earn:
+1050-REPUBLICANS EYE BIGGER U.S. CONSERVATION RESERVE|force:headed:senate:expanding:charles:
+1051-ARVIN INDS <ARV> PROMOTES EVANS TO PRESIDENT|industries:reuter:vice:remains:james:
+1052-EMHART CORP <EMH> QTLY DIVIDEND|earn:
+1053-U.S. DATA POINT TO CAPITAL SPENDING SLOWDOWN|sector:office:caused:agreed:global:
+1054-SENATORS INTRODUCE EXPORT LICENSING REFORM BILL|control:development:reuter:facto:higher:
+1055-AM INTERNATIONAL <AM> CITES STRONG PROSPECTS|earn:
+1056-CCC CREDITS FOR HONDURAS SWITCHED TO WHITE CORN|grain:corn:
+1057-ASSETS OF U.S. MONEY FUNDS ROSE IN WEEK|money:supply:
+1058-GULF BARGE FREIGHT RATES UP FURTHER ON CALL|ship:
+1059-ARGENTINA COULD SUSPEND DEBT PAYMENTS - DEPUTY|week:declared:suspend:observer:deputy:
+1060-KEY U.S. TAX WRITERS SEEK ESTATE TAX CURBS|reuter:duncan:writing:promoting:esops:
+1061-TREASURY BALANCES AT FED ROSE ON FEB 25|loan:tax:budget:accounts:totaled:
+1062-CANADA'S WILSON SEEKS TEMPORARY BORROWING|reuter:financial:previously:michael:period:
+1063-GULF APPLIED <GATS> SELLS UNITS, SEES GAIN|earn:
+1064-FARMERS GROUP INC <FGRP> 4TH QTR NET|earn:
+1065-POTOMAC ELECTRIC POWER CO <POM> JAN NET|earn:
+1066-SPRINGBOARD <SPBD> IN DEAL|reuter:san:chinese:computer:signed:
+1067-<COFAB INC> BUYS GULFEX FOR UNDISCLOSED AMOUNT|acq:
+1068-U.S. WEEKLY SOYBEAN CRUSH 21,782,929 BUSHELS|veg:oil:soybean:oilseed:meal:feed:soy:meal:
+1069-SCHULT HOMES OFFERING PRICED AT FIVE DLRS/UNIT|reuter:managed:producer:elkhart:september:
+1070-TULTEX CORP <TTX> SETS QUARTERLY DIVIDEND|earn:
+1071-BURLINGTON <BUR>  GETS 30.5 MLN DLR CONTRACT|industries:city:agency:menswear:division:
+1072-ROCKWELL <ROK> GETS 28.3 MLN DLR B-1 CONTRACT|fiscal:received:reuter:force:rockwell:
+1073-ATICO FINANCIAL CORP <ATFC> 4TH QTR NET|earn:
+1074-ICO EXPORTERS TO MODIFY NEW PROPOSAL|coffee:
+1075-U.S. COMMERCIAL PAPER FALLS 375 MLN DLRS IN FEB 18 WEEK, FED SAYS |money:supply:emptySet
+1076-N.Y. BUSINESS LOANS FALL 195 MLN DLRS IN FEB 18 WEEK, FED SAYS |money:supply:emptySet
+1077-NEW YORK BANK DISCOUNT WINDOW BORROWINGS 64 MLN DLRS IN FEB 25 WEEK |money:supply:emptySet
+1078-QUEBECOR <PQB> HEAD SEES NEW VENTURES LIKELY|reuter:chain:unemployment:stream:move:
+1079-NEW YORK BUSINESS LOANS FALL 195 MLN DLRS|money:supply:
+1080-N.Y. BANK DISCOUNT BORROWINGS 64 MLN DLRS|money:supply:
+1081-PHILIPPINE LONG DISTANCE <PHI> YEAR NET|earn:
+1082-LIBERTY ALL-STAR EQUITY FUND INITIAL DIV|earn:
+1083-COLUMBIA GAS SYSTEM INC <CG> REDEEMS DEBENTURES|mandatory:redeeming:requirements:addition:reuter:
+1084-COMBUSTION ENGINEERING INC <CSP> REGULAR DIV|earn:
+1085-TONKA CORP <TKA> RAISES DIVIDEND|earn:
+1086-BDM INTERNATIONAL <BDM> INCREASES QTRLY DIVS|earn:
+1087-SORG <SRG> STOCKHOLDERS FORM GROUP|composed:reuter:financial:proposed:consent:
+1088-SYSTEMATICS INC <SYST> REGULAR PAYOUT|earn:
+1089-TEXAS INSTRUMENTS <TXN> DEVELOPS NEW CHIP|square:version:computer:centimeter:working:
+1090-CONSOLIDATED GAS <CNG>UNIT SAYS NO RULES BROKEN|reuter:polychlorinated:successfully:cleaned:pit:
+1091-U.S. M-1 MONEY SUPPLY RISES 2.1 BILLION DLRS IN FEB 16 WEEK, FED SAYS |money:supply:emptySet
+1092-<IVACO INC> YEAR NET|earn:
+1093-U.S. BANK DISCOUNT BORROWINGS AVERAGE 310 MLN DLRS IN FEB 25 WEEK, FED SAYS |money:supply:emptySet
+1094-U.S. BANK NET FREE RESERVES 644 MLN DLRS IN TWO WEEKS TO FEB 25, FED SAYS |money:supply:emptySet
+1095-INVESTMENT FIRMS CUT CYCLOPS <CYL> STAKE|acq:
+1096-ASCS TERMINAL MARKET VALUES FOR PIK GRAIN|grain:wheat:corn:oat:rye:sorghum:soybean:oilseed:
+1097-CORADIAN CORP <CDIN> 4TH QTR NET|earn:
+1098-|money:supply:emptySet
+1099-N.Z. TRADING BANK DEPOSIT GROWTH RISES SLIGHTLY|money:supply:
+1100-|money:supply:emptySet
+1101-|money:supply:emptySet
+1102-|money:supply:emptySet
+1103-WORLD MARKET PRICE FOR UPLAND COTTON - USDA|cotton:
+1104-SUGAR QUOTA IMPORTS DETAILED -- USDA|sugar:
+1105-GRAIN SHIPS LOADING AT PORTLAND|grain:ship:
+1106-IRAN ANNOUNCES END OF MAJOR OFFENSIVE IN GULF WAR|code:named:ended:london:corps:
+1107-MERIDIAN BANCORP INC <MRDN> SETS REGULAR PAYOUT|earn:
+1108-U.S. BANK DISCOUNT BORROWINGS 310 MLN DLRS|money:supply:
+1109-AMERICAN EXPRESS <AXP> SEEN IN POSSIBLE SPINNOFF|acq:
+1110-U.S. M-1 MONEY SUPPLY ROSE 2.1 BILLION DLRS|money:supply:
+1111-GENERAL BINDING <GBND> IN MARKETING AGREEMENT|portable:produces:battery:operated:carry:
+1112-LIBERTY ALL-STAR <USA> SETS INITIAL PAYOUT|earn:
+1113-COCA COLA <KO> UNIT AND WORLD FILM IN VENTURE|sector:distribute:unit:cola:entertainment:
+1114-FORD MOTOR CREDIT <F> TO REDEEM DEBENTURES|reuter:rata:pro:proceeds:principal:
+1115-STERLING SOFTWARE <SSW> NOTE HOLDERS OK BUY|consent:shares:sernior:market:depending:
+1116-<SCHULT HOMES CORP> MAKES INITIAL STOCK OFFER|reuter:september:scott:consists:managing:
+1117-FLUOR <FLR> UNIT GETS CONSTRUCTION CONTRACT|received:reuter:covering:union:cogeneration:
+1118-SUFFIELD FINANCIAL CORP <SFCP> SELLS STOCK|benjamin:purchase:financial:outstanding:colonial:
+1119-<HIGH POINT FINANCIAL CORP> SETS OFFERING|mandatory:point:requiring:high:registration:
+1120-CHINESE PORK OUTPUT SEEN LOWER -- USDA|carcass:livestock:
+1121-LANDMARK BANCSHARES <LBC> TO BE LISTED ON NYSE|begins:board:march:bancshares:reuter:
+1122-IVACO SEES MINIMAL FIRST QUARTER EARNINGS|earn:
+1123-U.S. GRAIN CARLOADINGS FALL IN WEEK|grain:
+1124-HONG KONG FIRM UPS WRATHER<WCO> STAKE TO 11 PCT|acq:
+1125-COLECO INDUSTRIES INC <CLO> 4TH QTR|earn:
+1126-DIAMOND SHAMROCK (DIA) CUTS CRUDE PRICES|crude:
+1127-LIEBERT CORP <LIEB> APPROVES MERGER|acq:
+1128-NORTHERN TELECOM PROPOSES TWO-FOR-ONE STOCK SPLIT |earn:emptySet
+1129-COLECO INDUSTRIES <CLC> SEES PROFIT IN 1987|earn:
+1130-OLIN CORP <OLM> TO ELECT NEW CEO IN APRIL|elect:executive:corp:retirement:reuter:
+1131-|money:supply:emptySet
+1132-|money:supply:emptySet
+1133-GULF APPLIED TECHNOLOGIES <GATS> SELLS UNITS|acq:
+1134-INVESTMENT GROUP RAISES ROBESON <RBSN> STAKE|acq:
+1135-GAO LIKELY TO SHOW CERTS MORE COSTLY THAN CASH|grain:
+1136-Venezuela seeks 'flexibility' from banks-azpurua|advisory:reuter:meetings:reschedule:talks:
+1137-DAHLBERG INC <DAHL> 4TH QTR NET|earn:
+1138-CITY NATIONAL CORP <CTYN> RAISES DIVIDEND|earn:
+1139-<PAGE PETROLEUM LTD> YEAR LOSS|earn:
+1140-THOMSON MCKINNON UNIT'S CMO OFFERING PRICED|reuter:obligations:loan:product:assigned:
+1141-IDB COMMUNICATIONS GROUP INC <IDBX> YEAR NET|earn:
+1142-ARMOR ALL PRODUCTS CORP <ARMR> QUARTERLY DIV|earn:
+1143-OPEC MAY HAVE TO MEET TO FIRM PRICES - ANALYSTS|crude:
+1144-CENERGY <CRG> REPORTS 4TH QTR NET PROFIT|earn:
+1145-NORTHERN TELECOM LTD <NT> DECLARES STOCK SPLIT|earn:
+1146-TORCHMARK <TMK> AUTHORIZES STOCK REPURCHASE|earn:
+1147-PAINEWEBBER GROUP <PWJ> TO REDEEM DEBENTURES|outstanding:share:group:reuter:due:
+1148-R.P. SCHERER <SCHC> SETS PREFERRED STOCK OFFER|proposed:exchangeable:proceeds:underwriters:richard:
+1149-PARLUX FRAGRANCES COMPLETES INITIAL OFFERING|klein:share:including:consists:unis:
+1150-TECHAMERICA GROUP INC <TCH> 4TH QTR LOSS|earn:
+1151-WILFRED AMERICAN EDUCATIONAL <WAE> REGULAR DIV|earn:
+1152-DREXEL OFFICIAL HAS STAKE IN EPSILON DATA <EPSI>|acq:
+1153-PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC|proposed:general:offerings:btgc:technology:
+1154-VARIAN <VAR>, SIEMENS FORM JOINT VENTURE|limited:examinations:smaller:testing:associates:
+1155-DU PONT <DD> WINS SUIT AGAINST PHILLIPS <P>|reuter:pont:copolymer:enjoined:determine:
+1156-<NOVA> WINS GOVERNMENT OKAY FOR HUSKY <HYO> DEAL|acq:
+1157-PRESIDENTIAL AIRWAYS <PAIR> PACT APPROVED|txn:unit:service:justice:reuter:
+1158-ARMY TO RENEGOTIATE ITT <ITT> RADIO CONTRACT|failing:sincgars:reuters:production:single:
+1159-POTOMAC ELECTRIC POWER CO <POM> JANUARY NET|earn:
+1160-TORCHMARK <TMK> SELLS SINKING FUND DEBENTURES|poor:merrill:deal:maximum:coupon:
+1161-SUFFIELD FINANCIAL <SSBK> GETS FED APPROVAL|acq:
+1162-AFG INDUSTRIES INC <AFG> QUARTERLY DIVIDEND|earn:
+1163-<GSW INC> YEAR NET|earn:
+1164-SANTA ANITA REALTY <SAR> QUARTERLY DIVIDEND|earn:
+1165-LIQUID AIR CORP <LANA> QUARTERLY DIVIDEND|earn:
+1166-(MARSHALL STEEL LTD) YEAR NET|earn:
+1167-MARSHALL STEEL DETAILS GAIN FROM UNIT SALE|earn:
+1168-MAYFAIR INDUSTRIES INC <MAYF> 4TH QTR NET|earn:
+1169-(CORRECTED) - BANPONCE <BDEP> PLACES NOTES|figure:dillon:national:dollar:purposes:
+1170-U.S. TREASURY SAYS IT WILL PARTICIPATE WITH OTHERS IN 500 MLN DLR BRIDGE LOAN TO ARGENTINA |emptySet
+1171-U.S. REGULATOR CLOSES BANKS IN TEXAS, LOUISIANA|financial:danger:glenmora:number:birmingham:
+1172-OLIN <OLN> NAMES SUCCESSOR FOR CHIEF EXECUTIVE|reuter:operating:continue:april:retires:
+1173-DAEWOO MOTOR TO BOOST IMPORTS OF U.S. GOODS|testing:motors:general:motor:year:
+1174-BANKS EXPRESS GRAVE CONCERN ON BRAZIL DEBT MOVES|advisory:move:credits:trade:paul:
+1175-LNG IMPORTS FROM ALGERIA UNLIKELY IN 1987|nat:gas:
+1176-U.S. FARM CREDIT RESCUE BILL SEEN BEFORE EASTER|recess:money:agreed:executive:revamping:
+1177-REPORT COULD BE FINAL BLOW FOR REGAN|rebels:office:probe:month:timing:
+1178-SWISS ECONOMY IN EXCELLENT CONDITION, OECD SAYS|cpi:gnp:
+1179-U.S. WHEAT BONUS TO SOVIET CALLED DORMANT|grain:wheat:
+1180-U.S. TREASURY PART OF ARGENTINE BRIDGE LOAN|money:month:suspend:announcecement:imf:
+1181-COMPANIES SET BID FOR CANADA HELICOPTER CONTRACT|bell:supported:replace:engaging:aimed:
+1182-ALATENN RESOURCES INC <ATNG> 4TH QTR NET|earn:
+1183-AMERICAN TRAVELLERS <ATVC> EXPANDS OPERATIONS|operations:life:reuter:columbia:begun:
+1184-VERSATILE TO SELL UNIT TO VICON|acq:
+1185-VIDEOTRON BUYS INTO EXHIBIT COMPANY|acq:
+1186-<MEMOTEC DATA INC> YEAR NET|earn:
+1187-ROHR INDUSTRIES <RHR> SETTLES STRIKE|workders:aerospace:agreed:chula:month:
+1188-TEXACO CANADA CUTS CRUDE PRICES 64 CANADIAN CTS/BBL, PAR GRADE TO 22.26 CANADIAN DLRS |crude:emptySet
+1189-BANKS EXPRESS GRAVE CONCERN ON BRAZIL DEBT MOVE|advisory:move:credits:trade:follow:
+1190-TEXACO CANADA <TXC> LOWERS CRUDE POSTINGS|crude:
+1191-JURY FINDS FOR DOW <DOW> IN BIRTH DEFECT CASE|application:valid:point:allegations:early:
+1192-USDA SAID UNLIKELY TO BROADEN CORN BONUS OFFER|grain:corn:
+1193-MARATHON PETROLEUM REDUCES CRUDE POSTINGS|crude:
+1194-AGENCY VOTES TO END LOCAL NUCLEAR PLANT VETO|comment:set:reconsidered:populated:tuesday:
+1195-<GEORGE WESTON LTD> YEAR NET|earn:
+1196-RELIEF TO U.S. CORN/OATS GROWERS SAID LIKELY|grain:corn:oat:
+1197-N.Z. MONEY SUPPLY RISES 3.6 PCT IN DECEMBER|money:supply:
+1198-CIRCUIT SYSTEMS <CSYI> BUYS BOARD MAKER|acq:
+1199-FALLING SOYBEAN CRUSH RATIOS CUT OUTPUT|veg:oil:oilseed:meal:feed:soybean:soy:oil:soy:meal:
+1200-MAIL BOXES ETC <MAIL> 3RD QTR JAN 31 NET|earn:
+1201-MUNSINGWEAR INC <MUN> 4TH QTR JAN 3 LOSS|earn:
+1202-FED DATA SUGGEST STABLE U.S. MONETARY POLICY|money:supply:
+1203-FEDERAL INDUSTRIES LAUNCHES EUROBOND ISSUE|bearing:eurobond:reduce:years:manager:
+1204-NYSE TO STUDY REGULATION OF SECURITY INDUSTRY|caught:arsarco:investors:wall:instruments:
+1205-KOREAN AIR ORDERS MCDONNELL DOUGLAS <MD> MD-11S|summer:reuter:ordered:december:operates:
+1206-DELTA ROCKET BLASTS OFF FROM CAPE CANAVERAL|lifted:torn:force:disaster:crucial:
+1207-JAPAN TO TRY TO OPEN MARKET TO U.S. CAR PARTS|reuter:force:devise:officials:purchasing:
+1208-FRANCE FACES PRESSUE TO CHANGE POLICIES|cpi:gnp:
+1209-GTI CORP <GTI> 4TH QTR OPER NET|earn:
+1210-HOUSTON OIL <HO> RESERVES STUDY COMPLETED|crude:
+1211-FAMOUS RESTAURANTS INC <FAMS> 4TH QTR LOSS|earn:
+1212-JAPAN CONSUMER PRICES FALL 0.4 PCT IN JANUARY|cpi:
+1213-AVERY <AVY> SETS TWO FOR ONE STOCK SPLIT|earn:
+1214-MICROSOFT CORP <MSFT> HALTS MS-DOS IMPORTS|prohibiting:san:seizure:copies:marshals:
+1215-|money:supply:emptySet
+1216-JAPAN MARCH BOND COUPON SEEN UNCHANGED AT FIVE PCT|coupon:unchanged:informally:accept:year:
+1217-U.S. LAUNCHES WEATHER SATELLITE|scheduled:lifted:pound:aeronautics:cover:
+1218-ITALIAN COALITION MEETS AS GOVERNMENT CRISIS LOOMS|bettino:reuter:leaders:stick:deputy:
+1219-N.Z. CENTRAL BANK SEES SLOWER MONEY, CREDIT GROWTH|money:supply:
+1220-AVERAGE YEN CD RATES FALL IN LATEST WEEK|money:fx:interest:
+1221-BRITAIN'S ALLIANCE OPPOSITION WINS BY-ELECTION|centrist:nearest:liberal:key:seat:
+1222-ECONOMIC SPOTLIGHT - JAPAN EYEING FOREIGN STOCKS|reuter:yen:german:dollar:manages:
+1223-TAIWAN OFFSHORE BANKING ASSETS RISE IN JANUARY|december:rest:held:asian:borrowings:
+1224-JAPAN EXPECTED TO CUT BASE RATE FOR STATE BODIES|interest:
+1225-JAPAN HOUSE BUDGET TALKS TO REOPEN NEXT WEEK|liberal:controversial:deliberation:sales:reopen:
+1226-AUSTRALIA'S KEATING CHANGES ECONOMIC FORECASTS|gnp:bop:
+1227-THAI RICE EXPORTS RISE IN WEEK ENDED FEBRUARY 24|grain:rice:
+1228-TOKYO GRAIN EXCHANGE TO RAISE MARGIN REQUIREMENTS|soybean:red:bean:oilseed:
+1229-MANILA SAID TO OFFER DEBT BONDS TO BANKS|advisory:reuter:years:london:committee:
+1230-POLL MAJORITY DISAPPROVE OF REAGAN PRESIDENCY|remained:polled:disapprove:accomplishments:americans:
+1231-PRODUCER SPLIT HEATS UP COFFEE QUOTA TALKS|coffee:
+1232-ITALIAN TREASURY CUTS INTEREST ON CERTIFICATES|interest:
+1233-BRITISH CONSERVATIVES AHEAD OF LABOUR IN NEW POLLS|limited:observer:results:days:britain:
+1234-INDONESIAN AGRICULTURE GROWTH EXPECTED TO SLOW|grain:wheat:rice:veg:oil:soybean:sugar:rubber:copra:cake:corn:palm:oil:palmkernel:coffee:tea:plywood:soy:meal:cotton:
+1235-KUWAIT SAYS NO PLANS FOR EMERGENCY OPEC TALKS|crude:
+1236-INDONESIA SEEN AT CROSSROADS OVER ECONOMIC CHANGE|crude:
+1237-INDIAN BUDGET COMES IN FOR WIDE CRITICISM|sector:alleviation:welcomed:money:polled:
+1238-CHINA TO BORROW 390 MLN DLRS|berths:reuter:loan:highways:facilities:
+1239-MANILA SAID TO OFFER DEBT BONDS TO BANKS|advisory:reuter:years:london:committee:
+1240-CHINESE WHEAT CROP THREATENED BY PESTS, DISEASE|grain:wheat:
+1241-SAUDI RIYAL DEPOSIT RATES REMAIN FIRM|crude:
+1242-IRAN CLAIMS NEW VICTORIES NEAR BASRA|major:reuter:national:battle:soldiers:
+1243-BANGLADESH MOVES AGAINST LOAN DEFAULTERS|pre:owed:shilpa:metropolitan:obligations:
+1244-IRAQ SAYS IT REPELS IRANIAN ATTACK|major:khalil:positioned:area:previous:
+1245-QATAR UNVEILS BUDGET FOR FISCAL 1987/88|crude:
+1246-GULF BOND, STOCK MARKETS LAG BEHIND, GIB SAYS|money:fx:
+1247-SAUDI ARABIA REITERATES COMMITMENT TO OPEC PACT|crude:
+1248-COFFEE QUOTA TALKS CONTINUE, NO ACCORD SEEN LIKELY|coffee:
+1249-NEW ZEALAND CANCELS WEEKLY T-BILL TENDER|operations:injections:expects:balances:tender:
+1250-SHARE TRADING IN CHEUNG KONG GROUP SUSPENDED|major:cents:results:trading:suspended:
+1251-FEBRUARY U.S. PURCHASING MANAGER INDEX FALLS|committee:indicator:seasonally:happened:steel:
+1252-CANADA-EGYPT WHEAT NEGOTIATIONS TO CONTINUE|grain:wheat:
+1253-INDONESIAN WHEAT IMPORTS EXPECTED TO FALL IN 1987|grain:wheat:
+1254-SHULTZ LIKELY TO VISIT MOSCOW SOON|control:schultz:proposed:month:reached:
+1255-ZAMBIA TO RETAIN CURRENCY AUCTION, SAYS KAUNDA|money:fx:
+1256-POLISH BANKER PLEASED WITH WORLD BANK, IMF TALKS|reuter:financial:obligations:issued:national:
+1257-RECORD N.Z. FUTURES VOLUMES TRADED IN FEBRUARY|december:share:high:paper:year:
+1258-INDONESIAN SUGAR OUTPUT SEEN SHORT OF TARGET|sugar:
+1259-NIPPON KOKAN STEEL AFFILIATES CONSIDERING MERGER|acq:
+1260-Qantas Airways says will buy four Boeing 747-400's for one billion Australian |emptySet
+1261-EGYPT TO HOST NINE-NATION AFRICAN TALKS THIS MONTH|chad:agreed:denis:uganda:return:
+1262-EC MINISTERS CONSIDER BIG AGRICULTURE PRICE CUTS|reuter:proposed:increasingly:produced:ended:
+1263-QANTAS TO BUY FOUR 747-400'S FOR ONE BILLION DLRS|reuter:september:years:jim:pct:
+1264-IEL SETS 100 MLN DLR NOTE/COMMERCIAL PAPER ISSUE|industrial:issued:domestic:years:utilisation:
+1265-AMERICAN EXPRESS STUDIES OPTIONS FOR SHEARSON|comment:week:reuter:financial:remained:
+1266-INDONESIA UNLIKELY TO IMPORT PHILIPPINES COPRA|meal:feed:copra:cake:
+1267-SRI LANKAN BANK OFFERS 250 MLN RUPEES T-BILLS|reuter:central:offered:sri:mln:
+1268-STRONG EARTHQUAKE HITS NEW ZEALAND|week:smaller:mud:slip:links:
+1269-PHILIPPINES HEADS CONFIDENTLY INTO DEBT TALKS|stability:london:rescheduling:principal:rescheduled:
+1270-JAPAN FEBRUARY INTERIM TRADE SURPLUS JUMPS|trade:
+1271-NIPPON LIGHT METAL CONTINUES ALUMINIUM OUTPUT CUT|alum:
+1272-SAUDI FEBRUARY CRUDE OUTPUT PUT AT 3.5 MLN BPD|crude:
+1273-INDONESIAN PALM OIL OUTPUT EXPECTED TO RISE|veg:oil:palm:oil:
+1274-INDONESIAN TEA, COCOA EXPORTS SEEN UP, COFFEE DOWN|tea:cocoa:coffee:
+1275-SINGAPORE EXCHANGE SEEKING NASDAQ/LONDON LINK|proposed:issued:agreed:supported:asian:
+1276-INDONESIA'S EXPORTS DROP IN CALENDAR 1986|central:liquefied:gas:crude:dropped:
+1277-GERMAN EUROBOND MARKET EXPECTS BREATHING SPACE|reuter:quoted:german:including:foresee:
+1278-JAPAN'S NTT FORECASTS PROFITS FALL IN 1987/88|earn:
+1279-SINO-U.S. VENTURE IN CHINA TO MAKE RINSING AGENTS|states:set:signed:total:investment:
+1280-CHINA SIGNS WORLD BANK LOAN FOR TIANJIN PORT|ship:
+1281-THAI AIRWAYS INTERNATIONAL TO ALMOST DOUBLE FLEET|months:give:september:executive:reduce:
+1282-Japan February external reserves record 51.73 billion dlrs (January 51.46 billion) |reserves:emptySet
+1283-JAPAN FEBRUARY RESERVES RECORD 51.73 BILLION DLRS|reserves:
+1284-SIMEX TRADING VOLUME HITS RECORD IN FEBRUARY|set:nikkei:surpassing:high:trading:
+1285-SHULTZ VISIT TO MOSCOW POSSIBLE, SAY SOVIETS|bessmertnykh:deputy:officials:questions:consideration:
+1286-JAPAN DISTRIBUTOR MAY IMPORT MAZDA U.S.-MADE CARS|september:sales:distributor:rate:importing:
+1287-IRAQ DEFERS PAYMENTS ON 500 MLN DLR EUROLOAN|reuter:agreed:years:francaises:london:
+1288-TAIWAN CENTRAL BANK ISSUES CERTIFICATES OF DEPOSIT|supply:issued:years:growth:aimed:
+1289-ICO TALKS ON COFFEE QUOTAS TO RESUME AT NOON|coffee:
+1290-CAECL ISSUES 12 BILLION YEN EUROBOND|eurobond:pays:aide:date:manager:
+1291-CHINESE BANKS TO ISSUE MORE BONDS, OFFICIAL SAYS|reuter:chinese:money:budget:high:
+1292-INDIAN SUGAR OUTPUT RISES IN FIRST FOUR MONTHS|sugar:
+1293-INTERNATIONAL LEISURE NEGOIATING ON BOEING LEASE|deal:negotiations:group:reuter:international:
+1294-JAPAN PLANS MORE FLEXIBLE CORPORATE BOND ISSUES|proposed:issued:agreed:competitive:bring:
+1295-NEW DUTCH ADVANCES TOTAL 4.8 BILLION GUILDERS|money:fx:interest:
+1296-JAPAN BUYS SOME 95,000 TONNES SOYBEANS FROM CHINA|oilseed:soybean:
+1297-SHV SAYS IT MAKING TENDER OFFER FOR UP TO 33 MLN SHARES IN IC GAS |acq:emptySet
+1298-CHEUNG KONG (HOLDINGS) LTD <CKGH.HK> YEAR 1986|earn:
+1299-TRADING DELAYED ON SINGAPORE'S NEW BILL MARKET|operations:reuter:yeo:domestic:trade:
+1300-MERRILL LYNCH ISSUES 100 MLN ECU EUROBOND|eurobond:pays:luxembourg:management:reuter:
+1301-WALLENBERGS FIGHT BID FOR SWEDISH MATCH STAKE|acq:
+1302-INDONESIAN SOYBEAN IMPORTS FORECAST TO RISE|oilseed:soybean:meal:feed:soy:meal:
+1303-SHV SAYS IT MAKING TENDER OFFER FOR IC GAS|acq:
+1304-NOBEL/FINANCIERE ROBUR ISSUE FRENCH FRANC BONDS|denominated:separate:capital:units:announcements:
+1305-JAPANESE BANKS COOL ON NIGERIAN DEBT TALKS|money:agreed:barclays:talks:japan:
+1306-U.K. MONEY MARKET DEFICIT FORECAST AT 800 MLN STG|money:fx:interest:
+1307-JAPAN SALES TAX MAY FORCE NAKASONE OUT OF OFFICE|reuter:yasuhiro:yen:seizaburo:cuts:
+1308-BLACK MINERS SUPPORT S. AFRICAN MINES TAKEOVER|gold:platinum:strategic:metal:
+1309-THAILAND ANNOUNCES THIRD TAPIOCA QUOTA FOR EC|meal:feed:tapioca:
+1310-ATPC MEMBERS FIND WAYS TO CURB TIN EXPORTS|tin:
+1311-SOUTH KOREA TO HOLD CURRENT ACCOUNT SURPLUS DOWN|trade:bop:
+1312-DUTCH OILSEEDS/FATS IMPORTS ROSE IN 1986|oilseed:sunseed:soybean:rapeseed:veg:oil:soy:oil:palm:oil:groundnut:oil:
+1313-CHINA'S HEILONGJIANG PROVINCE BOOSTS GOLD OUTPUT|gold:
+1314-SALE TILNEY BUYS STAKE IN U.S. INSURANCE BROKER|acq:
+1315-SAN MIGUEL BOARD APPOINTMENT MAY MEAN CHANGES|represent:atmosphere:reuter:polled:reporters:
+1316-ESTIMATED DROP IN JAPAN CORPORATE PROFITS TRIMMED|earn:
+1317-LEBANESE PRESIDENT AGREES NEW PEACE MOVES|months:leaders:give:civil:sharing:
+1318-INDIAN BUDGET DEFICIT SEEN FUELING INFLATION|debenture:proposed:increasingly:money:pointed:
+1319-INDIA BUYS 46,000 TONNES OF VEGETABLE OILS|veg:oil:rape:oil:palm:oil:
+1320-BEECHAM UNIT LAUNCHES ARTHRITIS DRUG|relifex:bham:caused:pain:group:
+1321-JAPAN TO PROMOTE INTEREST RATE LIBERALISATION|interest:
+1322-TAIWAN POWER FIRM PLANS MORE FOREIGN DEBT CUTS|reserves:
+1323-CREDITORS ALLOW TECK HOCK TO FULFIL CONTRACTS|fulfil:comment:detailed:official:chinese:
+1324-TESCO ISSUES 100 MLN STG CONVERTIBLE BOND|set:deal:give:eurobond:boston:
+1325-SNCF ISSUING THREE BILLION FRANC DOMESTIC BOND|agricole:official:domestic:societe:committee:
+1326-DUTCH ANIMAL FEED USAGE DOWN IN FIRST HALF SEASON|meal:feed:soy:meal:tapioca:grain:corn:cornglutenfeed:citruspulp:oilseed:rapeseed:rape:meal:
+1327-REUTERS TO CARRY JIJI FINANCIAL SERVICES|financial:economic:technology:monitor:securities:
+1328-FIAT UNIT ISSUES 100 MLN DLR BOND AND WARRANTS|eurobond:pays:trade:currency:manager:
+1329-U.K. CONFIRMS JANUARY STERLING M3 RISE|money:supply:
+1330-EXCO BUYS U.S. GOVERNMENT SECURITIES BROKER|acq:
+1331-PAKISTAN TO TENDER FOR RBD PALM OIL|veg:oil:palm:oil:
+1332-HOECHST TO RESEARCH DISCS WITH U.S., JAPAN FIRMS|development:colorado:kerdix:agreed:distribute:
+1333-COLOROLL AGREES TO BUY U.S. WALLCOVERINGS COMPANY|acq:
+1334-ECONOMIC SPOTLIGHT - AUSTERITY MEASURES IN HUNGARY|hoped:reuter:set:september:credits:
+1335-U.K. MONEY MARKET SHORTAGE FORECAST REVISED DOWN|money:fx:interest:
+1336-ALASKA HOUSING HAS 150 MLN DLR SYNDICATED LOAN|reuter:tap:proposed:acquired:commitment:
+1337-SWEDEN TO GO AHEAD WITH S. AFRICAN TRADE SANCTIONS|trade:
+1338-DIGITAL AUDIO TAPE PLAYERS GO ON SALE IN JAPAN|displayed:sources:disc:controversial:world:
+1339-ECONOMIC SPOTLIGHT - ITALIAN BOOM|gdp:reuter:excessive:forget:september:
+1340-U.K. MONEY MARKET RECEIVES 37 MLN STG ASSISTANCE|money:fx:interest:
+1341-JAPAN, U.S. SET TO BEGIN HIGH-LEVEL TRADE TALKS|trade:
+1342-INDIA TO HOLD WHITE SUGAR BUYING TENDER|sugar:
+1343-QANTAS TO BUY FOUR 747-400'S FOR ONE BILLION DLRS|reuter:september:years:jim:pct:
+1344-CARLTON COMMUNICATIONS OPTIMISTIC FOR 1987|earn:
+1345-EC OPENS ANTI-DUMPING ENQUIRY INTO SOVIET MERCURY|strategic:metal:
+1346-MANILA SAID TO OFFER DEBT BONDS TO BANKS|advisory:reuter:years:london:committee:
+1347-ARGENTINE DEBT NEGOTIATOR CONFIDENT OF ACCORD|negotiation:bridge:industrial:prompt:loan:
+1348-GULF ARAB DEPUTY OIL MINISTERS TO MEET IN BAHRAIN|crude:
+1349-MANILA OFFICIALS SPLIT OVER DEBT STRATEGY|aided:sector:reuter:softening:month:
+1350-OECD SAYS JAPAN RESOLVED TO STIMULATE DEMAND|development:yasuhiro:domestic:japanese:general:
+1351-SAUDI ARABIA REITERATES COMMITMENT TO OPEC ACCORD|crude:
+1352-KUWAIT MINISTER SAYS NO EMERGENCY OPEC TALKS SET|crude:
+1353-TAIWAN PLANS NEW TARIFF CUTS|trade:
+1354-RHONE-POULENC TO LAUNCH INVESTMENT CERTIFICATES|industrial:rene:give:reuter:year:
+1355-HUTCHISON SEES HIGHER PAYOUT, SATISFACTORY PROFITS|earn:
+1356-BALLADUR EXPECTS IMPROVED FEBRUARY INFLATION DATA|sector:set:show:account:month:
+1357-FEBRUARY U.S. PURCHASING MANAGER INDEX FALLS|committee:indicator:seasonally:happened:worse:
+1358-FUNARO SAYS BRAZIL NEEDS MORE, FASTER FINANCE|replied:stunned:money:reporters:embassy:
+1359-AMERICAN MOTORS <AMO> BREAKS OFF TALKS ON PLANT|reject:midnight:plant:ended:deadline:
+1360-SCIENTIFIC MICRO SYSTEMS <SMSI> ACUIRES SUPERMAC|acq:
+1361-AMERICAN EXPRESS <AXP> VIEWING SHEARSON OPTIONS|acq:
+1362-SPANISH FARMERS PROTEST, THEN CALL TRUCE|protests:deal:imports:spanish:organisations:
+1363-SWISS HAVE NET GAIN IN 1985 GOVERNMENT FINANCES|duty:acceptance:financial:people:reuter:
+1364-TWO S/L FAILURES RAISE U.S. 1987 TOLL TO 10|reuter:colorado:beloit:colo:total:
+1365-ROPAK <ROPK> HAS 34 PCT OF BUCKHORN <BKN>|acq:
+1366-APPLE COMPUTER <AAPL> UPGRADES MACINTOSH LINE|executive:feature:convergence:colors:disk:
+1367-PHILADELPHIA PORT CLOSED BY TANKER CRASH|crude:ship:
+1368-PENRIL <PNL> SEEKS TO SELL TWO UNITS|acq:
+1369-LL/E ROYALTY <LRT> REVENUES MAY BE ESCROWED|alabama:determined:llx:determine:independent:
+1370-<DALE BURDETT INC> FACES DAMAGE CLAIM|acq:
+1371-PUROLATOR <PCC> IN BUYOUT WITH HUTTON <EFH>|acq:
+1372-NCR <NCR> SIGNS LICENSE AGREEMENT|sell:willemijn:ncr:reuter:licensed:
+1373-PAKISTAN COTTON OUTPUT REACHES 7.7 MLN BALES|cotton:
+1374-IMPERIAL CHEMICAL <IMP> FORMS NEW UNIT|equally:diabetic:annesthetic:people:statil:
+1375-FINANCIAL SANTA BARBARA <FSB> TO MAKE PURCHASE|acq:
+1376-ALCAN TO CLOSE WEST GERMAN ALUMINIUM SMELTER|alum:
+1377-BBC AG BROWN BOVERI UND CIE <BBCZ.Z> 1986 YEAR|earn:
+1378-MARRIOTT <MHS> TO SELL HOTEL|acq:
+1379-DH TECHNOLOGY <DHTK> CHAIRMAN SELLS SHARES|consent:falks:executive:associates:year:
+1380-BROWN BOVERI OMITS DIVIDEND, PLANS WARRANT BOND|earn:
+1381-U.S. CORPORATE FINANCE - ASSET-BACK MARKET GROWS|represent:treasuries:institutional:executive:years:
+1382-VIACOM SAID IT HAS NEW NATIONAL AMUSEMENTS, MCV HOLDINGS BIDS |acq:emptySet
+1383-ILC TECHNOLOGY <ILCT> OFFICER REMOVED|extent:civil:embezzlement:recover:technology:
+1384-APPLE COMPUTER <AAPL> HAS NEW MACINTOSH MODELS|printed:color:additional:high:including:
+1385-REAGAN AND BAKER BEGIN TASK OF REBUILDING|reuter:shot:rebels:office:affair:
+1386-LAROCHE STARTS BID FOR NECO <NPT> SHARES|acq:
+1387-<SDC SYDNEY DEVELOPMENT CORP> NINE MTHS LOSS|earn:
+1388-SENIOR ENGINEERING MAKES 12.5 MLN DLR US PURCHASE|acq:
+1389-CHEUNG KONG CHAIRMAN SEES STRONG RESULTS IN 1987|earn:
+1390-OCCIDENTAL <OXY> UNIT TO REDEEM DEBENTURES|required:outstanding:agent:manner:dividend:
+1391-WHITTAKER CORP 1ST QTR OPER SHR 17 CTS VS 25 CTS |earn:emptySet
+1392-VIACOM <VIA> RECEIVES TWO REVISED OFFERS|acq:
+1393-DOW <DOW> TO OFFER 130 MLN DLRS IN SWISS NOTES|reuter:investors:zurich:coupon:berne:
+1394-FRENCH ESTIMATE 86/87 WHEAT DELIVERIES UNCHANGED|grain:wheat:corn:barley:
+1395-WASTE MANAGEMENT CORP VOTES TWO FOR ONE STOCK SPLIT AND BOOSTS QTLY DIVIDEND TO 18 CTS |earn:emptySet
+1396-WRITERS GUILD OF AMERICA STRIKES TWO NETWORKS|reuter:members:money:terminate:locations:
+1397-PITTSTON AGREES TO ACQUIRE WTC INTERNATIONAL IN EXCHANGE OF STOCK |acq:emptySet
+1398-TUESDAY MORNING INC <TUES> 4TH QTR NET|earn:
+1399-DIAGNOSTIC/RETRIEVAL SYSTEMS INC MAKES 53 MLN DLR BID FOR ROSPATCH CORP |acq:emptySet
+1400-MILLER TABAK HAS 91.8 PCT OF PENN TRAFFIC <PNF>|acq:
+1401-COFFEE QUOTA TALKS CONTINUE BUT NO AGREEMENT YET|coffee:
+1402-FEDERAL INDUSTRIES SETS COMMERCIAL PAPER ISSUE|program:financial:outstanding:existing:purposes:
+1403-WASTE MANAGEMENT <WMX> VOTES SPLIT, UPS PAYOUT|earn:
+1404-POREX TECHNOLOGIES <PORX> SETS INITIAL DIVIDEND|earn:
+1405-DAVIS WATER <DWWS> DECLARES STOCK DIVIDEND|earn:
+1406-MEDCO CONTAINMENT <MCCS> SETS INITIAL PAYOUT|earn:
+1407-PITTSTON <PCO> AGREES TO ACQUIRE WTC <WAF>|acq:
+1408-SDC SYDNEY COST REVIEW MAY ELIMINATE PRODUCTS|earn:
+1409-<MULTI-STEP PRODUCTS INC> SIX MTHS DEC 31 LOSS|earn:
+1410-U.K. MONEY MARKET OFFERED BORROWING FACILTIES|money:fx:interest:
+1411-ELECTRONIC MAIL <EMCA> FINANCING ATTEMPT FAILS|operations:months:secure:fallen:wil:
+1412-NETHERLANDS GRANTS 47 MLN DLRS TO BANGLADESH|development:raised:netherlands:commodity:grant:
+1413-QUEBEC'S CAISSE DES JARDINS ISSUES YEN EUROBOND|major:centrale:yen:eurobond:desjardins:
+1414-DOW CHEMICAL LAUNCHES 200 MLN SWISS FRANC BOND|point:coupon:manager:close:lead:
+1415-SWISS SIGHT DEPOSITS RISE 3.10 BILLION FRANCS|reserves:
+1416-|grain:oat:emptySet
+1417-CONSOLIDATED TVX SAYS IT WILL ISSUE SHARES TO BUY STAKES IN THREE BRAZIL MINING FIRMS |acq:emptySet
+1418-BRAZIL CRITICISES ADVISORY COMMITTEE STRUCTURE|advisory:reuter:partial:leigh:existing:
+1419-WHITTAKER CORP <WKR> 1ST QTR JAN 31 NET|earn:
+1420-QUEBEC'S CAISSE DES JARDINS ISSUES YEN EUROBOND|major:centrale:yen:eurobond:desjardins:
+1421-STOP AND SHOP COS INC <SHP> 4TH QTR JAN 31 NET|earn:
+1422-JIM WALTER CORP <JWC> REGULAR DIVIDEND|earn:
+1423-DIAGNOSTIC <DRS> MAKES A BID FOR ROSPATCH <RPCH>|acq:
+1424-RECORD N.Z. FUTURES VOLUMES TRADED IN FEBRUARY|grain:wheat:wool:dlr:
+1425-AIR FORCE EXERCISES OPTION FOR AAR <AIR> ORDER|perkins:dlrs:valued:force:option:
+1426-DOW CHEMICAL LAUNCHES 200 MLN SWISS FRANC BOND|point:coupon:manager:close:lead:
+1427-TANZANIA SAYS NO NEED FOR NEW ECONOMIC MEASURES|satisfactory:chama:agreed:executive:satisfied:
+1428-TAIWAN TO SEEK HIGHER TEXTILE EXPORTS TO U.S.|limited:washington:mission:trade:states:
+1429-U.S. JAN CONSTRUCTION SPENDING ROSE 1.0 PCT AFTER REVISED 0.9 PCT DEC DROP |emptySet
+1430-U.S. NON-FARM PRODUCTIVITY FELL REVISED 2.2 PCT IN 4TH QTR INSTEAD OF 1.7 PCT |emptySet
+1431-U.S. NON-FARM PRODUCTIVITY FELL 2.2 PCT IN QTR|adjusted:drop:previously:revised:effectively:
+1432- FRENCH 13-WEEK T-BILL AVERAGE RATE FALLS TO 7.69 PCT FROM 7.82 PCT |emptySet
+1433-U.S. CONSTRUCTION SPENDING ROSE 1.0 PCT IN JAN|adjusted:constant:previously:revised:month:
+1434-WHITTAKER <WKR> TO HAVE GAINS FROM SALES|earn:
+1435-THE JAPAN FUND <JPN> GETS BUYOUT OFFER|acq:
+1436-STANSBURY MINING <STBY> GETS FUNDING FOR MINE|vermiculite:industrial:revenue:tax:expects:
+1437-<SAMSUNG CO> CALENDAR 1986|earn:
+1438-<DAEWOO CORP> CALENDAR 1986|earn:
+1439-CORNING TO OFFER 0.5165 SHARE FOR EACH HAZLETON SHARE UNDER EARLIER AGREEMENT |acq:emptySet
+1440-BANK OF NEW YORK <BK> TO HAVE GAIN ON UNIT SALE|acq:
+1441-CORNING <GLW>, HAZLETON <HLC> SET EXCAHNGE RATIO|acq:
+1442-HEALTH EXPERTS URGE ERADICATION OF RINDERPEST|livestock:l:cattle:
+1443-TURKISH RETAIL PRICES RISE 2.7 PCT IN FEBRUARY|retail:
+1444- bank of england announces creation of further one billion stg of nine pct 2002 exchequer stock |emptySet
+1445-XEROX CORP <XRX> ADDS CAPACITY TO SYSTEM|month:purchased:option:rented:annually:
+1446-BALLY <BLY> COMPLETES PURCHASE OF GOLDEN NUGGET|acq:
+1447-CONSOLIDATED TVX TO BUY BRAZIL GOLD MINE STAKES|gold:acq:platinum:
+1448-WARWICK INSURANCE MANAGERS INC <WIMI> 4TH QTR|earn:
+1449-CANADA INDUSTRIAL PRICES UP 0.2 PCT IN MONTH|ipi:
+1450-OLIVER'S STORES <OLVR> FILES CHAPTER 11|declared:stores:reorganize:primary:decided:
+1451-HOWE OWNERS FEDERAL <HFSL> HOLDERS OK MORE STOCK|amendment:owners:reuter:charter:federal:
+1452-COMMERZBANK UNIT ISSUES STERLING EUROBOND|eurobond:pays:manager:london:management:
+1453-NUCLEAR DATA <NDI> GETS EXTENSIONS ON LOANS|months:cover:agreed:retire:share:
+1454-GELCO CORP 2ND QTR SHR 67 CTS VS 23 CTS |earn:emptySet
+1455-STROBER ORGANIZATION INC <STRB> 4TH QTR NET|earn:
+1456-JUDGE RULES IN FAVOR OF DOW CHEM <DOW> UNIT|reuter:marshall:county:defects:unit:
+1457-U.K. SAYS HAS NO ROLE IN BRAZIL MORATORIUM TALKS|pointed:secretary:domestic:interpreted:sources:
+1458-SHELL CANADA CUTS CRUDE OIL PRICES BY UP TO 1.27 CANADIAN DLRS/BBL EFFECTIVE MARCH ONE |crude:emptySet
+1459-BANK OF ENGLAND ANNOUNCES ONE BILLION STG TAP|reuter:tranche:point:books:market:
+1460-BRENCO INC <BREN> DECLARES QTLY DIVIDEND|earn:
+1461-BLACK SOUTH AFRICAN MINERS SEEK WAGE RISE|national:africa:general:talks:struggle:
+1462-PRIME COMPUTER <PRM> UNVEILS PC SOFTWARE|aided:feature:dimensional:design:unveiled:
+1463-MASSACHUSETTS INVESTORS GROWTH STOCK FUND PAYOUT|earn:
+1464-FEDERAL INDUSTRIES PAPER ISSUE JUST IN CANADA|completed:depends:paper:close:market:
+1465-<PREMDOR INC> 4TH QTR NET|earn:
+1466-AMERICAN NURSERY <ANSY> BUYS FLORIDA NURSERY|acq:
+1467-JUTLAND TELEPHONE SETS 75 MLN SWISS FRANC BOND|exceed:retired:reasons:tax:telephone:
+1468-REGENCY CRUISES INC <SHIP> ELECTS NEW CHAIRMAN|cruises:executive:replace:schanz:reuter:
+1469-MFS MANAGED SECTORS TRUST DIVIDEND INCREASED|earn:
+1470-UNOCAL <UCL> PLANS LUBE CENTERS AT TRUCKSTOPS|point:grages:national:lubrication:highways:
+1471-<GENZYME>, PFIZER <PFE> UNIT IN JOINT VENTURE|reuter:proprietary:agreed:focus:owned:
+1472-MULTI-STEP TO SELL LADDER UNIT, CANCEL SHARES|earn:acq:
+1473-ESSELTE BUSINESS <ESB> UNIT BUYS ANTONSON UNIT|acq:
+1474-FED EXPECTED TO ADD TEMPORARY RESERVES|money:fx:interest:
+1475-REUTER DEALING SERVICE INTRODUCED IN CHINA|office:dealing:corp:trust:investment:
+1476-CAMBRIDGE MEDICAL <CMTC> IN DEAL ON AIDS TEST|exclusive:cambridge:design:home:panbaxy:
+1477-FOUR SEASONS BUYING MARRIOTT <MHS> HOTEL|acq:
+1478-QUAKER OATS <OAT> FILES SHELF REGISTRATION|salomon:reuter:issued:years:registration:
+1479-STONE <STO> SPLITS STOCK, RAISES PAYOUT|earn:
+1480-TEMPLE INLAND/INT'L PAPER UP ON RAISED OPINION|comment:raised:year:outlook:expects:
+1481-PRESIDENTIAL AIR <PAIR> TO START NEW SERVICE|reuter:savannah:washington:philadelphia:tex:
+1482-S-K-I LTD <SKII> 2ND QTR JAN 25 NET|earn:
+1483-KAPOK CORP <KPK> YEAR SEPT 30 LOSS|earn:
+1484-COUPON REDUCED ON BEST DENKI WARRANT BOND|deal:coupon:share:manager:year:
+1485-CARGILL U.K. STRIKE TALKS POSTPONED|oilseed:
+1486-LOTUS <LOTS> INTRODUCES NEW SOFTWARE|summer:named:apple:family:series:
+1487-AMAX <AMX> IN GOLD, SILVER FIND|gold:silver:
+1488-STUDY GROUP URGES INCREASED U.S. OIL RESERVES|crude:
+1489-K-TRON INTERNATIONAL INC <KTII> 4TH QTR NET|earn:
+1490-FORD <F> INCREASES 2ND QTR OUTPUT PLANS -REPORT|period:trade:motor:year:compared:
+1491-FNMA <FNM> ARRANGES MORTGAGE SECURITIES SWAP|coupon:national:underlying:year:shearson:
+1492-MCI <MCIC> GETS PENNEY <JCP> CONTRACT|exceed:privatge:month:teleconferencing:video:
+1493-PRESIDENTIAL REALTY CORP <PDO> ANNUAL NET|earn:
+1494-FORD INCREASES 2ND QTR OUTPUT PLANS, REPORT SAYS|period:trade:motor:year:compared:
+1495-REDSTONE DETAILS SWEETENED VIACOM <VIA> OFFER|acq:
+1496-MONTEDISON CONCLUDES TALKS WITH ANTIBIOTICOS|acq:
+1497-UTILICORP <UCU> COMPLETES ACQUISITION|acq:
+1498-ARMCO <AS> CHANGES EUROPEAN MARKETING UNIT|armco:named:cologne:mill:market:
+1499-FAA FINES DELTA <DAL> 140,400 DLRS ON SAFETY|operations:reuter:series:reviewed:result:
+1500-TRADERS DETAIL FRENCH CEREAL EXPORT REQUESTS|grain:corn:wheat:barley:
+1501-STUDY GROUP URGES INCREASED U.S. OIL RESERVES|crude:
+1502-NCR CORP <NCR> UNIT SIGNS DISTRIBUTION PACT|major:campaign:national:direct:covers:
+1503-CARBIDE <UK> LOOKS TO ACQUISITIONS FOR GROWTH|acq:
+1504-CORRECTED - BANKAMERICA NEGOTIATING SALE OF UNITS|acq:
+1505-<FRANKLIN GOLD FUND> CUTS DIVIDEND|earn:
+1506-COLUMBIA GAS <CG> FORMS ERIE PIPELINE SUBIDIARY|clinton:coastal:previously:spelled:facilities:
+1507-<FRANKLIN CALIFORNIA TAX-FREE INCOME FUND>PAYOUT|earn:
+1508-<FRANKLIN AGE HIGH INCOME FUND> SETS PAYOUT|earn:
+1509-R.J.R. NABISCO UNIT FORMS OVERSEEING COMMITTEE|operations:limited:managers:executive:management:
+1510-PETRO-CANADA CUT CRUDE PRICES BY 1.43 CANADIAN DLRS/BBL EFFECTIVE MARCH ONE |crude:emptySet
+1511-<FRANKLIN FEDERAL TAX-FREE INCOME FUND> PAYOUT|earn:
+1512-<FRANKLIN NEW YORK TAX-FREE INCOME FUND> PAYOUT|earn:
+1513-<FRANKLIN U.S. GOVERNMENT SECURITIES FUND>PAYOUT|earn:
+1514-GM <GM> UNIT TO OFFER PRE-APPROVED CREDIT|reuter:campaign:motors:direct:accept:
+1515-CANADA RULING ON U.S. CORN INJURY DUE THIS WEEK|grain:corn:
+1516-FIRST MISSISSIPPI CORP <FRM> SETS PAYOUT|earn:
+1517-ROTTERDAM PORT UNION AND EMPLOYERS TO MEET|ship:
+1518-FED SETS 1.5 BILLION DLR CUSTOMER REPURCHASE, FED SAYS |money:fx:interest:emptySet
+1519-AIRGAS <AGA> DECLINES TO COMMENT ON STOCK MOVES|comment:dlrs:explanation:reuter:request:
+1520-JIM WALTER CORP <JWC> SETS PAYOUT|earn:
+1521-FED ADDS RESERVES VIA CUSTOMER REPURCHASES|money:fx:interest:
+1522-SONY TO EXPAND U.K. TELEVISION OUTPUT|locate:office:period:years:grants:
+1523-JAPAN'S NTT FORECASTS PROFITS FALL IN 1987/88|earn:
+1524-EC COMMISSION GIVEN PLAN TO SAVE STEEL INDUSTRY|iron:steel:
+1525-LONDON STOCK EXCHANGE TO CLOSE TRADING FLOOR|displayed:reuter:seaq:share:system:
+1526-EAGLE TELEPHONICS <EGLA> SELLS TELEPHONES|bell:telephone:signed:year:electronic:
+1527-DURO-TEST CORP <DUR> 2ND QTR JAN 31 NET|earn:
+1528-<FRANKLIN UTILITIES FUND> SETS PAYOUT|earn:
+1529-GELCO CORP <GEL> 2ND QTR JAN 31 NET|earn:
+1530-INTERNCHANGE FINANCIAL SERVICES <ISBJ> PAYOUT UP|earn:
+1531-KAPOK CORP <KPK> IN TECHNICAL DEFAULT|acq:
+1532-NEWPORT CORP <NESP> 2ND QTR JAN 31 NET|earn:
+1533-KAPOK CORP <KPK> 1ST QTR DEC 31 LOSS|earn:
+1534-PREFERRED HEALTHCARE LTD <PHCC> 4TH QTR NET|earn:
+1535-TRANZONIC COS <TNZ> SETS QUARTERLY|earn:
+1536-NUEUTROGENA <NGNA> TO BUY BACK STOCK|adjusted:reduce:purchased:open:market:
+1537-CRONUS INDUSTRIES INC <CRNS> 4TH QTR LOSS|earn:
+1538-MERCURY ENTERTAINMENT CORP <MCRY> YEAR NOV 30|earn:
+1539-CME PLANS RULE CHANGES TIGHTENING S/P TRADING|advisory:executive:actions:trade:discovered:
+1540-BENGUET CORP <BE> CALENDAR 1986|earn:
+1541-POGO <PPP> CONSOLIDATES TWO DIVISIONS|development:divisions:oil:mexico:pogo:
+1542-UNOCAL <UCL> UNIT CUTS CRUDE OIL POSTED PRICES|crude:
+1543-PANHANDLE'S <PEL> TRUNKLINE REDUCES GAS RATES|nat:gas:
+1544-INVESTOR GROUP HAS TALKS WITH PESCH ON AMI <AMI>|acq:
+1545-I.M.S. INTERNATIONAL INC <IMSI> SETS QUARTERLY|earn:
+1546-BANNER <BNR> COMPLETES TENDER FOR REXNORD <REX>|acq:
+1547-MUTUAL OF OMAHA INTEREST SHARES <MUO> QTLY DIV|earn:
+1548-MOBIL <MOB> UNIT TO PRODUCE FOOD PACKAGING|cookies:polystyrene:producer:sald:demand:
+1549-CORRECTED - BANKAMERICA NEGOTIATING UNITS SALE|acq:
+1550-OSR <OSRC> TO MAKE ACQUISITION|acq:
+1551-MERCURY ENTERTAINMENT <MCRY> SEES BETTER RESULTS|earn:
+1552-CRONUS INDUSTRIES INC <CRNS> SELLS UNIT|acq:
+1553-UNISYS CORP <UIS> SETS QUARTERLY|earn:
+1554-JACOBSON <JCBS> VOTES SPLIT, INCREASES PAYOUT|earn:
+1555-AW COMPUTER <AWCSA> IN SUPPLY AGREEMENT|worldwide:computers:supply:sale:design:
+1556-HARLEY-DAVIDSON INC <HDI> 4TH QTR NET|earn:
+1557-<HOECHST AG> COMPLETES CELANESE <CZ> ACQUISITION|acq:
+1558-AMERICUS TRUST <HPU> EXTENDS DEADLINE|acq:
+1559-MORSE SHOE INC <MRS> 4TH QTR NET|earn:
+1560-BENETTON IN FINANCIAL SERVICES JOINT VENTURE|reuter:acquired:gft:prul:milan:
+1561-ICO QUOTA TALKS CONTINUE, OUTCOME HARD TO GAUGE|coffee:
+1562-SEC STAFF ADVISES FRAUD CHARGES AGAINST WPPSS|operations:responsible:ron:probe:allegations:
+1563-PACIFIC WESTERN FUSES MANAGEMENT WITH CP AIR|marketplace:successfully:donald:aviation:resigning:
+1564-AMGEN <AMGN> TO FORM PARTNERSHIP|warrants:arrangement:pharmaceutical:estimated:reuter:
+1565-BENETTON IN FINANCIAL SERVICES JOINT VENTURE|reuter:acquired:gft:prul:milan:
+1566-AIBD, CEDEL, EUROCLEAR JOIN IN TRADE MATCH SYSTEM|major:work:force:give:eurobond:
+1567-ZAPATA <ZOS> WON'T PAY INTEREST ON DEBENTURES|scheduled:financial:results:determine:discussions:
+1568-HARNISCHFEGER INDUSTRIES INC <HPH> 1ST QTR NET|shr:reuter:equal:note:pensions:
+1569-IRISH OIL CONCERN HAS 8.5 PCT OF CYNERGY <CRG>|work:individuals:campaign:acquired:mln:
+1570-ALCAN ALUMINIUM LTD SETS THREE FOR TWO STOCK SPLIT |emptySet
+1571-ALBERTSON'S INC <ABS> 4TH QTR JAN 29 NET|reuter:year:dlrs:shr:cts:
+1572-U.S. INTEC INC <INTK> 4TH QTR NET|tax:insurance:frol:reuter:note:
+1573-FRANKLIN RESOURCES <BEN> FORMS THREE FUNDS|reuter:pays:yield:levied:equity:
+1574-CINCINNATI BELL INC <CSN> RAISES QUARTERLY|reuter:record:pay:prior:qtly:
+1575-CINCINNATI BELL <CSN> SETS STOCK SPLIT|declared:reuter:cincinnati:bell:common:
+1576-BRT REALTY TRUST <BRT> RAISES QUARTERLY PAYOUT|raised:merrill:outstanding:share:manager:
+1577-UNIVERSAL HEALTH REALTY <UHT> IN INITIAL PAYOUT|declared:initial:cts:reuter:universal:
+1578-QED EXPLORATION INC <QEDX> 2ND QTR JAN 31 NET|reuter:vsd:shr:revs:net:
+1579-PREFERRED HEALTH CARE LTD <PHCC> YEAR DEC 31 NET|revs:shr:reuter:net:cts:
+1580-AOI COAL CO <AOI> 4TH QTR NET|tax:results:acceleration:excludes:reuter:
+1581-AIBD, CEDEL, EUROCLEAR JOIN IN TRADE MATCH SYSTEM|major:work:force:give:eurobond:
+1582-WESTERN DIGITAL <WDC> ADDS E-MAIL PACKAGE|named:widen:computer:licensing:gilroy:
+1583-MIDWAY <MDWY> TO EXPAND SERVICE|fly:acquired:united:aircraft:airport:
+1584-FOOTHILL <GFI> ARRANGES DEBT PLACEMENT|institutional:private:purchased:unit:completion:
+1585-KEVEX CORP <KEVX> 2ND QTR JAN 31 NET|mths:reuter:shr:cts:mln:
+1586-WESTERN UNION <WU> NAMES NEW PRESIDENT|succeeds:elected:robert:reuter:remain:
+1587-NORTH ATLANTIC INDUSTRIES INC <NATL> YEAR NET|dlrs:shr:lifo:share:reuter:
+1588-CHURCHILL TO MARKET WESTERN UNION <WU> SERVICES|years:assigned:held:privately:sell:
+1589-COMBUSTION ENGINEERING <CSP> SETS CHINA PACT|control:set:fired:supply:national:
+1590-ALCAN ALUMINIUM LTD <AL> SETS STOCK SPLIT|aluminium:issued:declared:close:subject:
+1591-BUFFETS INC <BOCB> 4TH QTR NET|reuter:year:shr:sales:shrs:
+1592-STANDARD OIL SETS 154 MLN SWISS FRANC NOTE WITH 3-1/4 PCT COUPON AND CURRENCY WARRANTS |emptySet
+1593-STANDARD MOTORS PRODUCTS INC <SMP> 4TH QTR NET|dlrs:mths:reuter:shr:revs:
+1594-COMMERCIAL CREDIT <CCC> TO HAVE GAIN ON SALE|domestic:subject:reuter:expected:sold:
+1595-AIR WIS SERVICES INC <ARWS> 4TH QTR NET|gains:tax:reuter:sale:note:
+1596-OPEC PRESIDENT SAYS OIL MARKET BEING MANIPULATED|impression:breaking:discipline:waiting:production:
+1597-ARBOR DRUGS INC <ARBR> 2ND QTR JAN 31 NET|mths:reuter:shrs:avg:shr:
+1598-EPITOPE <EPTO> SETS THREE FOR ONE STOCK SPLIT|agreed:reconvened:aids:announced:reuter:
+1599-AMC SAYS STEPS BEING TAKEN TO BUILD NEW JEEP AT ALTERNATE SITE AFTER UAW TALKS FAIL |emptySet
+1600-CITIZENS FINANCIAL CORP <CTZN> 4TH QTR NET|mths:reuter:shr:mln:revs:
+1601-PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC|ppl:salomon:rok:merrill:proposed:
+1602-INTERNATIONAL HYDRON CORP <HYD> 4TH QTR NET|quarter:excludes:reuter:cent:note:
+1603-SNET <SNG> COMPLETES PRATT/WHITNEY <UTC> ORDER|england:unit:city:united:ess:
+1604-COGNITIVE SYSTEMS INC <CSAI> 4TH QTR NOV 30 LOSS|reuter:year:shr:net:revs:
+1605-POLYMERIC RESOURCES CORP <POLR> 2ND QTR DEC 31|reuter:sales:shr:net:cts:
+1606-CONT'L ILLINOIS RECHARACTERIZES 425 MLN DLRS IN BAD LOANS FROM 1984, SAYS DOESN'T AFFECT NET |emptySet
+1607-FLUOR CORP DOWNGRADED BY MOODY'S, AFFECTS 390 MLN DLRS OF DEBT |emptySet
+1608-INTRERFACE FLOORING <IFSIA> FILES FOR OFFERING|previously:owned:repurchase:pct:tender:
+1609-HEALTH-MOR INC <HMI> 4TH QTR NET|reuter:year:dlrs:shr:cts:
+1610-|emptySet
+1611-SCOTTY'S <SHB> SALES UP FIVE PCT IN FEBRUARY|stores:rose:company:reuter:markets:
+1612-STANDARD OIL <SRD> TO ISSUE SWISS FRANC NOTE|detachable:coupon:manage:currency:rate:
+1613-TFC TELESERVICES CORP <TFCS> YEAR NOV 30 LOSS|operations:shr:discontinued:dlrs:share:
+1614-(CORRECTED) - <TRANSALTA UTILITIES CORP> YEAR NET|writedown:dlrs:loss:energy:reuter:
+1615-ALBERTSON'S <ABS> TO INCREASE NEW STORE OPENINGS|dlrs:grocery:total:plans:chain:
+1616-PALL CORP <PLL> SECOND QUARTER SALES, ORDERS UP|january:reuter:ended:corp:pall:
+1617-NAVISTAR <NAV> DEBT UPGRADED BY S/P|upgraded:rating:raised:reuter:financial:
+1618-JOHN WILEY AND SONS INC <WILLB> 3RD QTR NET|note:qtr:share:reuter:sale:
+1619-ARBOR DRUGS INC <ARBR> 2ND QTR JAN 31 NET|reuter:shrs:avg:shr:sales:
+1620-TECHNOLOGY DEVELOPMENT CORP <TDCK> 4TH QTR NET|mths:dlrs:reuter:loss:shr:
+1621-SPANISH FARMERS BATTLE POLICE IN N.E. SPAIN|stones:deal:imports:northeastern:year:
+1622-TANDEM <TNDM> HAS HOME SHOPPING DEAL|summer:reuter:area:computer:controlled:
+1623-FLANIGAN'S ENTERPRISES INC <BDL> 1ST QTR DEC 27|racquet:reuter:extraordinary:cts:club:
+1624-TRIANGLE INDUSTRIES INC 4TH QTR OPER SHR LOSS THREE CTS VS PROFIT 27 CTS   |emptySet
+1625-MURGOLD RESOURCES HAS PARTIAL GOLD ASSAYS|underground:partial:grade:explored:individual:
+1626-CHRYSLER TO SELL CARS IN EUROPE BEFORE YEAR END|distributors:peup:executive:dollar:competitive:
+1627-U.S. DELEGATION PLANS TO LEAVE ICO TALKS TUESDAY|negotiation:opinions:set:chances:vary:
+1628-FORD <F> AIR-BAG PROGRAM FLAGGING - REPORT|reuter:supply:sales:relax:resistance:
+1629-MURGOLD RESOURCES <MGDVF> HAS PARTIAL ASSAYS|underground:partial:grade:explored:individual:
+1630-PACCAR <PCAR> AND UNIT DEBT DOWNGRADED BY S/P|rating:reuter:financial:reductions:pointed:
+1631-DEAN WITTER AGREES TO SEC CENSURE FOR FAILING TO FULLY REPORT CASH TRANSACTIONS |emptySet
+1632-S/P MAY DOWNGRADE MACK TRUCKS <MACK> DEBT|duty:heavy:financial:september:implications:
+1633-ZIMBABWE'S MAIZE MOUNTAIN POSES ECONOMIC PROBLEM|domestic:deliveries:month:curb:find:
+1634-TECHNOLOGY/CHIP INDUSTRY SEEKS CUSTOM DESIGNS|reuter:newest:agreed:random:dynamic:
+1635-SEARS TO RESTRUCTURE DISTRIBUTION |emptySet
+1636-CONTINENTAL ILL <CIL> TO RECHARACTERIZE LOSS|insurance:lumping:agency:challenging:office:
+1637-REX-NORECO INC <RNX> 1ST HALF JAN 31 NET|revs:shr:reuter:net:cts:
+1638-MORRISON KNUDSEN <MRN> GETS NAVAL STATION JOB|control:hanger:knudsen:national:revamping:
+1639-PACKAGING SYSTEMS CORP <PAKS> 4TH QTR NET|operations:adjusted:share:accounting:investment:
+1640-MOLECULAR BIOSYSTEMS <MOBI> OFFERS NEW PRODUCTS|simplifies:san:probe:detection:kits:
+1641-G.D. RITZY'S INC <RITZ> 4TH QTR LOSS|reuter:mln:jan:ended:year:
+1642-WESTERN DIGITAL <WDC> ADDS ELECTRONIC MAIL|electronic:networks:complete:adding:consumers:
+1643-TRIANGLE INDUSTRIES INC <TRI> 4TH QTR LOSS|operations:discontinued:qtr:retroactive:national:
+1644-FLUOR CORP <FLR> DEBT DOWNGRADED BY MOODY'S|control:reuter:investors:flow:stress:
+1645-ESI INDUSTRIES INC <ESI> 4TH QTR NET|excludes:quarter:nil:industries:reuter:
+1646-ELECTRONIC CONTROL <ECSIU> INITIAL OFFER STARTS|control:dlrs:reuter:led:underwriters:
+1647-SEARS TO CLOSE CHICAGO DISTRIBUTION CENTER, LAY OFF UP TO 1,800 EMPLOYEES |emptySet
+1648-THUNANDER CORP <THDR> YEAR NET|purchase:england:bmd:september:diluted:
+1649-TYLAN <TYLN> RENEWS CREDIT LINE|december:loan:rate:shares:adjustment:
+1650-NACCO INDUSTRIES <NC> UNIT TO BE SOLD|energy:actions:price:tons:substantial:
+1651-<PORSCHE AG> RAISING U.S. PRICES|raised:reuter:produced:raise:north:
+1652-VALLEY FEDERAL <VFED> NAMES NEW OFFICERS|named:loan:donald:follow:death:
+1653-SEARS <S> DEAN WITTER UNIT AGREES TO SEC CENSURE|roebuck:examining:major:agency:office:
+1654-BANKEAST CORP <BENH> COMPLETES ACQUISITION|dlrs:exchange:mln:completed:reuter:
+1655-U.S. SAYS TIN DISPOSALS WILL NOT AFFECT ACCORD|thomas:surplus:influence:accord:strategic:
+1656-BANNER <BNR> TO ACCEPT REXNORD <REX> SHARES|reuter:expects:accept:days:balace:
+1657-AMERICAN NURSERY <ANSY> MAKES ACQUISITION|plants:dlrs:reuter:terms:foliage:
+1658-DOT REJECTS SMOKING BAN ON DOMESTIC FLIGHTS|concluded:nas:hazards:risk:concluding:
+1659-AMC <AMO> SAYS STEPS TAKEN AFTER UAW TALKS FAIL|actions:lloyd:milwaukee:profitable:negotiated:
+1660-ARCHIVE CORP <ACHV> SIGNS DISTRIBUTOR AGREEMENT|distribute:qic:carry:based:personal:
+1661-INSPEECH <INSP> MAKES ACQUISITIONS|acquired:house:minneapolis:associates:physical:
+1662-SEARS TO TAKE 20 MLN DLR AFTER-TAX CHARGE IN FIRST QUARTER FOR RESTRUCTURING |emptySet
+1663-STATUS GAME <STGM> TO INTRODUCE VIDEO BINGO|status:introducing:play:buy:games:
+1664-VERSATILE UNIT HAS LETTER OF INTENT TO BUILD 320 MLN DLR ICEBREAKER FOR FEDERAL GOVERNMENT - OFFICIAL |emptySet
+1665-BAYER <BAYRY> MAKES U.S. ACQUISITION|trenton:plastics:acquired:year:gmbh:
+1666-EAGLE ENTERTAINMENT <EEGL> TO MANAGE AFFILIATE|consulting:reuter:investors:independent:manage:
+1667-GULF ARAB OIL MEETING ENDS|reuter:resistance:ended:forged:shirawi:
+1668-APPLE <AAPL>, AST <ASTA> OFFER MS-DOS PRODUCTS|called:wires:telephone:environments:computer:
+1669-NOLAND <NOLD> FEBRUARY SALES OFF TWO PCT|noland:february:reuter:winter:markets:
+1670-GOVERNMENT BOND BROKER SEES WIDER DATA ACCESS|violation:commissions:sources:eligible:justice:
+1671-EC MINISTERS STRUGGLE TO AGREE ON DAIRY CUTS|surplus:proposed:agreed:move:years:
+1672-|emptySet
+1673-SEARS <S> TO RESTRUCTURE DISTRIBUTION|roebuck:major:set:restructure:evaluate:
+1674-B.F. GOODRICH TO PHASE OUT SOME BUSINESSES, CUT STAFF BY 790 |emptySet
+1675-DELTA AIR <DAL> BEGINS ATLANTA-TOKYO SERVICE|fly:week:reuter:began:departing:
+1676-VERSATILE TO BUILD POLAR ICE BREAKER|ship:
+1677-CHRYSLER <C> UNIT SELLS NOTES AT 7-5/8 PCT|salomon:treasuries:deal:coupon:life:
+1678-<PANTRY INC> INB TALKS ON BEING ACQUIRED|acq:
+1679-CONGRESS VIDEO GROUP INC <CVGI> 3RD QTR NET|earn:
+1680-FIRST FINANCIAL MANAGEMENT <FFMC> REVISES PACT|december:duration:balance:management:additional:
+1681-<RENOUF CORP> TO PROCEED WITH BENEQUITY <BH> BID|acq:
+1682-INTEGRATED GENERICS <IGN> WILL NOT COMMENT|midafternoon:reuter:statement:exchange:common:
+1683-CUBA TELLS TRADERS SUGAR EXPORTS MAY BE DELAYED|sugar:
+1684-GOODRICH <GR> TO PHASE OUT SOME BUSINESSES|rubber:
+1685-THUNANDER CORP <THDR> YEAR NET|earn:
+1686-FINAL TRUST FOR THRIFT INSTITUTIONS PAYOUT SET|earn:
+1687-(RPT) U.S. SAYS TIN DISPOSALS WILL NOT AFFECT ACCORD|tin:
+1688-ROSPATCH TO RESPOND TO DIAGNOSTIC BID |earn:emptySet
+1689-FRANKLIN INSURED TAX-FREE SETS PAYOUT|earn:
+1690-FRANKLIN MINNESOTA INSURED SETS PAYOUT|earn:
+1691-FRANKLIN MICHIGAN INSURED SETS PAYOUT|earn:
+1692-FRANKLIN MASSACHUSETTS INSURED CUTS PAYOUT|earn:
+1693-U.S. EXPORT INSPECTIONS, IN THOUS BUSHELS  SOYBEANS 20,349 WHEAT 14,070 CORN 21,989 |oilseed:grain:soybean:wheat:corn:emptySet
+1694-FRANKLIN CALIFORNIA TAX-FREE SETS PAYOUT|earn:
+1695-DIAGNOSTIC PRODUCTS <DPCZ> SEES EARNINGS GROWTH|earn:
+1696-CURRENCIES COULD INFLUENCE BULLION AGAIN-MONTAGU|gold:
+1697-DUNKIN' DONUTS INC <DUNK> 1ST QTR JAN 24 NET|earn:
+1698-CCR VIDEO CORP <CCCR> 1ST QTR NOV 30 NET|earn:
+1699-FRANKLIN PUERTO RICO TAX-FREE SETS PAYOUT|earn:
+1700-FRANKLIN OHIO INSURED TAX-FREE SETS PAYOUT|earn:
+1701-FRANKLIN HIGH-YIELD TAX-FREE SETS PAYOUT|earn:
+1702-CONVERGENT TECHNOLOGIES <CVGT> TO BUY OAKLEAF|acq:
+1703-NYMEX WILL EXPAND OFF-HOUR TRADING APRIL ONE|crude:
+1704-CCR VIDEO <CCCR> NOW MEETS NASDAQ REQUIREMENTS|refinanceing:requirement:previously:ended:year:
+1705-ROSPATCH <RPCH> TO RESPOND TO DIAGNOSTIC <DRS>|acq:
+1706-GREEN TREE ACCEPTANCE INC <GNT> SETS DIVIDEND|earn:
+1707-ARGENTINE OIL PRODUCTION DOWN IN JANUARY 1987|crude:nat:gas:
+1708-ROSPATCH CORP REJECTS OFFER FROM DIAGNOSTIC RETRIEVAL SYSTEMS INC |acq:emptySet
+1709-HUGHES' U.S. RIG COUNT SLIPS TO 801 THIS WEEK|colorado:mexico:number:inland:individual:
+1710-GULF OF MEXICO RIG COUNT FALLS THIS WEEK|point:reuter:mexico:mediterranean:area:
+1711-NORTH AMERICAN GROUP <NAMG> BUYS GEORGIA FIRM|acq:
+1712-CANADA PLANS 4-PART 1.2 BILLION DLR BOND ISSUE TUESDAY - OFFICIAL |emptySet
+1713-TALKING POINT/VIACOM INTERNATIONAL <VIA>|acq:
+1714-UP-RIGHT INC <UPRI> 4TH QTR OPER NET|earn:
+1715-CANADA LAUNCHES 1.2 BILLION DLR BOND ISSUE|reuter:issued:including:tomorrow:delivered:
+1716-U.S. ELECTRONIC SALES FLAT IN 1986|sector:trend:december:thomson:services:
+1717-TALKS SHOW NEW CANADIAN CONFIDENCE, GROUP SAYS|trade:
+1718-U.S. ACTS TO PROTECT KAISER STEEL RETIREES|interruption:reuter:guaranty:terminate:month:
+1719-<DAIWA SECURITIES CO> TO SUPPLY MARKET UPDATE|exclusive:major:fnni:financial:due:
+1720-UAL <UAL> UNIT ATTACKED ON MINORITY HIRING|operations:upper:house:resources:number:
+1721-ALBERTSON'S INC <ABS> RAISES QTLY DIVIDEND|earn:
+1722-CHEMICAL NEW YORK <CHL> TO CLOSE DUBAI OFFICE|institutional:result:close:centralizing:united:
+1723-WAVEHILL INTERNATIONAL TO MAKE ACQUISITION|acq:
+1724-SECURITY PACIFIC <SPC> COMPLETES MERGER|acq:
+1725-PALL CORP <PLL> 2ND QTR SALES RISE 17 PCT|reuter:jan:ended:corp:pall:
+1726-J.P. INDUSTRIES <JPI> FORMS TWO OPERATING GROUPS|repair:major:acquired:sales:clevite:
+1727-U.S. INTEC INC <INTK> 4TH QTR NET|earn:
+1728-LODGISTIX <LDGX> TO BUYBACK 100,000 SHARES|purchase:reuter:incentive:programs:purposes:
+1729-ICI <ICI> SEEKS GAINS IN SPECIALTY BUSINESSES|earn:acq:
+1730-INT'L HYDRON CORP <HYD> 4TH QTR OPER NET|earn:
+1731-ALBERTSON'S <ABS> ADOPTS STOCKHOLDER RIGHTS PLAN|acq:
+1732-ROSPATCH <RPCH> REJECTS DIAGNOSTIC <DRS> BID|acq:
+1733-SYNTECH INTERENATIONAL INC <SYNE> 4TH QTR NET|earn:
+1734-INT'L MINERALS <IGL> BUYS ANIMAL PRODUCTS UNIT|acq:
+1735-JWT <JWT> NOT APPROACHED BY GROUP SEEKING SHARES|acq:
+1736-UAW WANTS TO REVIVE AMERICAN MOTORS <AMO> TALKS|strongly:reuter:meetings:move:wis:
+1737-BANC ONE <ONE> HAS MICHIGAN AFFILIATE|national:reuter:number:affiliates:corp:
+1738-COEUR D'ALENE MINES CORP <COUR> 4TH QTR LOSS|earn:
+1739-FUNARO REJECTS UK SUGGESTION OF IMF BRAZIL PLAN|impression:reuter:developed:reporters:domestic:
+1740-FOOTE MINERAL <FTE> SELLS CAMBRIDGE PLANT|acq:
+1741-U.S. WHEAT GROUPS CALL FOR GLOBAL ACTION|grain:wheat:
+1742-GELCO <GEL> SEES FLAT 1987 PRETAX OPERATING NET|earn:
+1743-U.S. TROOPS GET COST-OF-LIVING INCREASE|ordered:family:dollar:month:purchasing:
+1744-UTILICORP <UCU> ACQUIRES DOMINION <D> SUBSIDIARY|acq:
+1745-DAISY SYSTEMS <DAZY> INTRODUCES WORKSTATIONS|aided:workstations:family:engineering:based:
+1746-WESTERN TELE-COMMUNICATIONS <WTLCA> JOINS GROUP|reuter:partnership:customers:general:denver:
+1747-PESCH SEES SHAREHOLDER SUPPORT IN AMI <AMI> BID|acq:
+1748-THREE CONVICTED IN HOME STATE FAILURE|reuter:money:obtain:show:board:
+1749-VIDEO SHOPPING MALL ADDS FLORIDA STATION|uhf:area:reuter:carried:business:
+1750-NATIONAL EARLY WARNING SEEKS OMEGA BALLISTICS|national:ballistics:warning:crafted:lightweight:
+1751-UNITED MERCHANTS <UMM> TO BUY ITS OWN STOCK|purchases:outstanding:acquired:instruments:authorized:
+1752-WESTINGHOUSE <WX>, MATSUSHITA <MC> SET VENTURE|operations:summer:industrial:agreed:high:
+1753-SENIOR DELEGATES PESSIMISTIC ON ICO TALKS|coffee:
+1754-EDO CORP <EDO> UNIT WILL BUILD AIRCRAFT PARTS|exceed:point:previously:college:follow:
+1755-GLAMIS GOLD LTD <GLGVF> SIX MTHS DEC 31 NET|earn:
+1756-U.S. APPROVES BUYOUT OF COASTAL BANCORP <CSBK>|acq:
+1757-LITTLE PRINCE PRODUCTIONS LTD<LTLP>1ST QTR LOSS|earn:
+1758-BRAZIL CRITICISES ADVISORY COMMITTEE STRUCTURE|advisory:reuter:surplus:leigh:existing:
+1759-|emptySet
+1760-VANGUARD TECHNOLOGIES <VTI> WINS CONTRACT|operations:office:programming:hardware:facilities:
+1761-AMCA <AIL> TO SELL SOME DOMINION BRIDGE ASSETS|acq:
+1762-CONDOR COMPUTER INTRODUCES DATABASE PRODUCT|functions:management:offering:database:floppy:
+1763-SCOTT'S HOSPITALITY ACQUIRES CAPITAL FOOD|acq:
+1764-FUNARO REJECTS SUGGESTION OF IMF BRAZIL PLAN|reuter:suspended:developed:talking:attitude:
+1765-SAATCHI AND SAATCHI <SACHY> COMBINES UNITS|diener:ted:hauser:entity:total:
+1766-UNION NATIONAL <UNBC> SIGNS DEFINITIVE PACT|acq:
+1767-ANALYSTS SEE NO OTHER BIDDER FOR PUROLATOR<PCC>|acq:
+1768-FORMER BROKER, INVESTOR SENTENCED FOR TRADING|attorney:reuter:ordered:defendants:sentence:
+1769-ANNUAL MAILING TO DELINQUENT FARMERS -- USDA|letters:borrower:office:december:county:
+1770-ANTITRUST LAWYER NOMINATED CLAIMS COURT JUDGE|attorney:deputy:senate:house:year:
+1771-PAN AM <PN> FEBRUARY LOAD FACTOR UP|passenger:revenue:seat:reuter:points:
+1772-WHITEHALL CORP <WHT> 4TH QTR NET|earn:
+1773-SERVICE CORP INTERNATIONAL <SRV> 3RD QTR NET|earn:
+1774-WARNER COMMUNICATIONS <WCI>IN CONTRACT WITH ROSS|stock:year:stability:steven:employment:
+1775-PEOPLES BANCORPORATION <PEOP> QUARTERLY DIVIDEND|earn:
+1776-CAREMARK <CMRK> CHANGES FISCAL YEAR-END|caremark:reuter:june:changing:calendar:
+1777-CPL REIT <CNTRS> 4TH QTR NET|earn:
+1778-STAR TECHNOLOGIES TO TRADE ON NASDAQ|months:national:period:high:ended:
+1779-REPUBLIC AUTOMOTIVE PARTS <RAUT> 4TH QTR LOSS|earn:
+1780-REALMERICA CO <RACO> YEAR NOV 30 NET|earn:
+1781-CYBERTEK <CKCP> FORMING NEW DIVISION|fortune:dallas:personal:forming:reuter:
+1782-S-K-I LTD <SKII> 2ND QTR JAN 25 NET|earn:
+1783-HOLIDAY CORP <HIA> TO REDEEM TWO BOND ISSUES|inns:outstanding:series:unit:reuter:
+1784-ANCHOR GLASS <AGLS> CLEARED FOR LISTED ON NYSE|outstanding:preliminary:expects:month:trading:
+1785-BLOCKBUSTER <BBEC> UNIT GETS TWO MORE LICENSES|exclusive:executed:stores:videos:winston:
+1786-FERRO CORP <FOE> SETS JOINT VENTURE|acq:
+1787-COMPUTER LANGUAGE <CLRI>UNIT OFFERS TAX PRODUCT|explanatory:computer:accounts:unit:tables:
+1788-U.S. SELLS 3-MO BILLS AT 5.47 PCT, STOP 5.48 PCT, 6-MO 5.51 PCT, STOP 5.51 PCT |emptySet
+1789-WHITE HOUSE'S HOWARD BAKER SAYS REAGAN TO ADDRESS NATION WEDNESDAY AT 2100 EST |emptySet
+1790-NYMEX RULE CHANGE SEEN BOOSTING ENERGY TRADE|crude:
+1791-AMC EXTENDS INCENTIVE PROGRAM, WILL PAY CASH REBATES UP TO 700 DLRS |emptySet
+1792-U.S. REFINERY COPPER STOCKS FALL IN JANUARY|copper:
+1793-WHITE HOUSE WITHDRAWS GATES NOMINATION AS CIA CHIEF|regret:replace:decided:names:controversial:
+1794-DIAMOND SHAMROCK <DIA> SETS MEETING RECORD DATE|set:march:april:stockholders:vote:
+1795-WHITE HOUSE'S BAKER SAYS REAGAN TO MEET PRESS "VERY SOON"  |emptySet
+1796-CCL UNIT ACQUIRES NESTLE CANADA CAN OPERATIONS|acq:
+1797-AMERICAN PORK CONGRESS KICKS OFF TOMORROW|livestock:hog:
+1798-BURLINGTON'S EL PASO UNIT<BNI> FILES GAS PRICES|scheduled:drop:revenue:unchanged:cost:
+1799-COPPER STOCKS OUTSIDE U.S. INCREASE IN DECEMBER|copper:
+1800-REAGAN TO ADDRESS NATION WEDNESDAY NIGHT|reuter:process:house:reagan:news:
+1801-CANADA GOVERNMENT SPENDING TO RISE 3.8 PCT|reuter:stabilization:inclusion:estimates:month:
+1802-ADVANCE CIRCUITS <ADVC> GETS LOAN AGREEMENT|square:money:facility:reductions:mln:
+1803-BAKER SAYS REAGAN TO MEET PRESS "VERY SOON"|gates:conferences:house:lack:report:
+1804-TEXAS AIR <TEX> UNIT TO BEGIN NEW SERVICE|houston:reuter:depart:san:limited:
+1805-TONKA <TKA> EXPANDS AUSTRALIAN OPERATIONS|exclusive:lines:actions:buy:distributor:
+1806-BARNETT BANKS OF FLORIDA <BBF> REDEEMS STOCK|reuter:outstanding:series:share:surrenderred:
+1807-HECK'S <HEX> SAYS CREDIT AGREEMENT EXPIRED|week:predict:discussions:sought:reached:
+1808-TURNER CORP <TUR> UNIT BUILDS HOSPITAL ADDITION|square:begun:office:foundation:county:
+1809-GREY ADVERTISING <GREY> FORMS NEW DIVISION|division:financial:established:reuter:grey:
+1810-MFS MANAGED MUNCIPAL BOND TRUST SETS PAYOUT|earn:
+1811-COMMERCIAL CREDIT <CCC> SELLS 10-YEAR NOTES|managed:deal:coupon:boston:life:
+1812-ATT <ATT> GETS 57.3 MLN DLR CONTRACT|received:develop:equipment:modular:reuter:
+1813-AMC <AMO> EXTENDS INCENTIVE PROGRAM|wagoneer:limited:marketplace:motors:competitive:
+1814-ADVANCED SYSTEMS <ASY> TO DISTRIBUTE COURSES|acquired:developed:touch:monitors:delivered:
+1815-U.S. BRASS MILL COPPER STOCKS LOWER IN JANUARY|copper:
+1816-MFS MUNICIPAL INCOME TRUST <MFM> SETS PAYOUT|earn:
+1817-PITTWAY CORP <PRY> 4TH QTR NET|earn:
+1818-<SIEMENS AG> U.S UNIT TO BEGIN MAKING SYSTEMS|reuter:office:facility:process:communication:
+1819-ARMTEK <ARM> TO SELL INDUSTRIAL TIRE UNIT|acq:
+1820-U.S. SIGNS TAX TREATY WITH VIRGIN ISLANDS|reuter:samoa:guam:states:taxes:
+1821-CME SETS FEBRUARY TRADING VOLUME RECORD|changed:september:surpassing:rate:agricultural:
+1822-SOFTWARE COS SUPPORT NEW APPLE <AAPL> PRODUCTS|accessible:summer:apple:modules:national:
+1823-AMERICAN ELECTRIC <AEP> UNIT REDEEMING BONDS|par:buy:electric:reuter:pct:
+1824-AVX CORP <AVX> DEBT AFFIRMED BY S/P|proposed:implications:occur:reuter:negative:
+1825-FDA OKAYS DRUG TO LESSEN HEMOPHILIACS' BLEEDING|proteins:bleeding:requiring:lack:trade:
+1826-KIDDER UNIT SELLS CMOS, INCLUDING FLOATERS|treasuries:maximum:obligations:totaling:product:
+1827-PETROLITE CORP <PLIT> SETS PAYOUT|earn:
+1828-NYMEX TO SUBMIT PROPANE PROPOSAL TO CFTC|propane:heat:gas:
+1829-australian annual broad money supply growth 10.3 pct in January |money:supply:emptySet
+1830-GM FEBRUARY U.S. CAR OUTPUT 358,661, DOWN FROM 398,823 LAST YEAR |emptySet
+1831-GM <GM> OUTPUT FELL LAST MONTH|february:reuter:output:eased:motors:
+1832-YEUTTER BLASTS PROPOSED EC OILS AND FATS TAX|veg:oil:soy:oil:oilseed:soybean:
+1833-EXXON <XON> CUTS HEATING OIL BARGE PRICE|heat:
+1834-GREECE SAYS IT HAS RIGHT ON AEGEAN OIL DRILLING|crude:
+1835-LEUCADIA <LUK> HAS 7.2 PCT OF MINSTAR <MNST>|acq:
+1836-BASIX CORP <BAS> 4TH QTR LOSS|earn:
+1837-MONTREAL EXCHANGE NAMES NEW PRESIDENT|named:set:centrale:desjardins:executive:
+1838-AUSTRALIAN JANUARY ANNUAL BROAD MONEY UP 10.3 PCT|money:supply:
+1839-MICROBIO <MRC> PLANS ACQUISITION, FINANCING|acq:
+1840-NATIONAL BANK ISSUES MORTGAGE-BACKED SECURITIES|bearing:reuter:investors:years:high:
+1841-ICO COUNCIL ENDS IN FAILURE TO AGREE QUOTAS|coffee:
+1842-FRANCE HAS LITTLE ROOM FOR MANOEUVRE, OECD SAYS|gnp:trade:
+1843-PAINEWEBBER<PWJ> UNIT UPS SHAER SHOE <SHS> STAKE|acq:
+1844-ORACLE SYSTEMS CORP <ORCL> TO OFFER STOCK|reuter:outstanding:share:shareholders:offer:
+1845-TELECREDIT INC <TCRD> 3RD QTR JAN 31 NET|earn:
+1846-COUSINS HOME FURNISHINGS <CUZZ> GET CREDIT LINE|loan:supported:owes:home:july:
+1847-LASER PRECISION CORP <LASR> 4TH QTR NET|earn:
+1848-REXNORD <REX> TO REDEEM RIGHTS|acq:
+1849-CANTREX UNIT TO MERGE WITH ONTARIO GROUP|acq:
+1850-INVESTMENT FIRM BOOSTS LDBRINKMAN <DBC> STAKE|acq:
+1851-ITT'S <ITT> HARTFORD UNIT POSTS 4TH QTR GAIN|earn:
+1852-SEC PROBES 1986 TRE <TRE> TAKEOVER ATTEMPT|acq:
+1853-REGAN DEPARTURE MAKES 3RD VOLCKER TERM LIKELY|reuter:shot:invited:reeling:increasingly:
+1854-CBT FEBRUARY VOLUME DOWN 14 PCT FROM YEAR AGO|grain:oat:corn:oilseed:soybean:
+1855-USSR WHEAT BONUS RUMORS PERSIST DESPITE DENIALS|grain:wheat:
+1856-CANADIAN SEAFARERS THREATEN STRIKE|ship:
+1857-REUTERS <RTRSY> IN REAL ESTATE MARKET VENTURE|program:named:set:partnership:private:
+1858-DALLAS CORP <DLS> 4TH QTR LOSS|earn:
+1859-CONSTRUCTION CONTRACTING DOWN THREE PCT IN JAN|reuter:supported:adjusted:setback:month:
+1860-DILLARD DEPARTMENT STORES INC <DDS> 4TH QTR NET|earn:
+1861-EC MINISTERS BID TO SAVE DAIRY ACCORD|stones:german:agreed:years:attempts:
+1862-CALNY INC <CLNY> SUES PEPSICO INC <PEP>|reuter:san:number:operates:fiduciary:
+1863-BRANIFF <BAIR> FEBRUARY LOAD FACTOR UP SLIGHTLY|seats:rose:reuter:precentage:filled:
+1864-KENTUCKY CENTRAL LIFE <KENCA> SETS PAYOUT|earn:
+1865-BANK OF NEW ENGLAND CORP <BKNE> QTLY DIVIDEND|earn:
+1866-JAPAN UNEMPLOYMNENT RISES TO RECORD IN JANUARY|jobs:
+1867-FORD <F> EUROPE EARNINGS UP 71 PCT LAST YEAR|earn:
+1868-REAGAN'S CIA MAN WITHDRAWS, VICTIM OF IRAN SCANDAL|reuter:regret:nominee:senate:intelligence:
+1869-SOUTH KOREA'S LEADING INDICATORS FALL IN DECEMBER|lei:
+1870-DENG SAYS CHINA'S TROUBLES OVER|chinese:yaobang:political:washington:sales:
+1871-JAPANESE ECONOMIST SEES STABLE YEN/DOLLAR RATES|money:fx:yen:dlr:
+1872-OPEC WITHIN OUTPUT CEILING, SUBROTO SAYS|crude:
+1873-OFFICIAL INQUIRY SET FOR AUSTRALIAN WHEAT INDUSTRY|grain:wheat:
+1874-COFFEE TRADERS EXPECT SELLOFF AFTER ICO TALKS FAIL|coffee:
+1875-EC MINISTERS POSTPONE TALKS ON SAVING DAIRY PACT|saving:surplus:proposed:community:diplomats:
+1876-REAGAN APPROVAL RATING FALLS TO FOUR-YEAR LOW|sales:cbs:president:scandal:reuter:
+1877-EARTHQUAKES CONTINUE TO SHAKE NORTHERN NEW ZEALAND|midnight:quake:earth:northern:auckland:
+1878-CRA Ltd 1986 net profit 138.2 mln dlrs vs 87.8 mln |earn:emptySet
+1879-N.Z. QUARTERLY CURRENT ACCOUNT DEFICIT NARROWS|bop:
+1880-AMERICAN AIRLINES TO ANNOUNCE BUYS, NEWSPAPER SAYS|purchases:quoted:general:sources:paper:
+1881-TRANSAMERICA SELLS OCCIDENTAL LIFE AUSTRALIA|acq:
+1882-CRA LTD <CRAA.S> 1986 NET|earn:
+1883-MALAYSIA RE-IMPOSES EXPORT DUTIES ON RUBBER|rubber:
+1884-MALAYSIA RAISES DUTY ON PROCESSED PALM OIL|veg:oil:palm:oil:
+1885-comalco ltd 1986 net profit 57.1 mln dlrs vs loss 69.1 mln |earn:emptySet
+1886-COMALCO LTD <CMAC.S> 1986 NET|earn:
+1887-JAPANESE DEMAND FOR U.K. GILTS SEEN RISING|reuter:office:doubtful:including:rapidly:
+1888-JAPAN'S UNEMPLOYMENT RATE SEEN RISING TO 3.5 PCT|jobs:
+1889-SOUTH KOREAN TRADE SURPLUS NARROWS IN FEBRUARY|bop:
+1890-TAIWAN REJECTS TEXTILE MAKER PLEA ON EXCHANGE RATE|september:depend:fix:earner:stable:
+1891-EGYPT ALLOWS FUGITIVE LIBYANS STAY|reuter:egypt:cairo:agreed:allowed:
+1892-U.S. ASKS JAPAN TO END AGRICULTURE IMPORT CONTROLS|legislation:organisations:japanese:rice:talks:
+1893-JAPAN MOVES TO TIGHTEN CHIP-EXPORT CURBS|trade:
+1894-FINNISH UNEMPLOYMENT AT 6.7 PCT IN DECEMBER|jobs:
+1895-BANKERS SEE SHARP RISE IN THAI FOREIGN RESERVES|reserves:
+1896-SWEDEN HAS CURRENT PAYMENTS SURPLUS IN 1986|bop:
+1897-NEUTRAL BUDGET EXPECTED IN SINGAPORE|stringent:surplus:issued:raised:balanced:
+1898-FISONS PLC <FISN.L> YEAR TO END-1986|earn:
+1899- MAJOR SWISS BANKS RAISE CUSTOMER TIME DEPOSIT RATES 1/4 POINT TO THREE PCT - CREDIT SUISSE |interest:emptySet
+1900- CORRECTED - MAJOR SWISS BANKS RAISE CUSTOMER TIME DEPOSIT RATES 1/4 POINT TO 3-1/4 PCT - CREDIT SUISSE |interest:emptySet
+1901-FISONS SEES STRONG INTERNATIONAL GROWTH IN 1986|results:underlying:proportion:main:gmt:
+1902-PHILIPPINE PLANNING CHIEF URGES PESO DEVALUATION|money:fx:
+1903-U.K. CLEARS CONS GOLD U.S. PURCHASE|acq:
+1904-NEDERLANDSE GASUNIE ISSUES 100 MLN DLR EUROBOND|eurobond:pays:manager:luxembourg:investment:
+1905-SAAB-SCANIA ISSUES 150 MLN DLR EUROBOND|guaranty:scania:eurobond:manager:fees:
+1906-MERRILL MANDATED FOR IEL U.S. NOTE.|industrial:issued:agreed:domestic:owned:
+1907-ZAIRE ACCEPTS TIN-EXPORT QUOTA, ATPC SAYS|tin:
+1908-JAPANESE BANKS PLAN JOINT FIRM TO AVOID DEBT RISK|owed:set:unrecoverable:acquired:lending:
+1909-JAPANESE FINANCIAL FUTURES PLAN REVEALED|incorporate:quoted:money:global:dollar:
+1910-EC, EURATOM FRENCH FRANC EUROBONDS EXPECTED|euratom:reuter:energy:community:atomic:
+1911-AUSTRALIAN POLICE ARREST FORMER WESTPAC CLERK|comment:unrelated:quoted:yen:money:
+1912-U.K. MONEY MARKET DEFICIT FORECAST AT 350 MLN STG|money:fx:interest:
+1913-JAPAN LIKELY TO LET U.S. BANKS DEAL SECURITIES|criticism:reuter:september:brokerages:held:
+1914-SAUDI RIYAL DEPOSIT RATES EASE|money:fx:saudriyal:
+1915-CURRENCY SECTORS CONTINUE TO FEATURE EUROBOND TRADE|reuter:money:exchanges:manager:statements:
+1916-FRENCH TREASURY DETAILS PLANNED TAP ISSUE|tap:december:minimum:thursday:tender:
+1917-PEMEX SIGNS 500 MLN DLR JAPAN LOAN FOR PIPELINE|crude:
+1918-SUPPLIES OF U.K. INDEX-LINKED BOND EXHAUSTED|england:exhausted:demand:number:trading:
+1919-STC PLC <STCL.L> YEAR TO END-1986|earn:
+1920-COMALCO SAYS LOWER COSTS HELPED RETURN TO PROFITS|earn:alum:
+1921-CRA EXPECTS TO PAY FINAL DIVIDEND OF 10 CENTS|earn:
+1922-MONTEDISON UNIT ISSUES 50 MLN AUSTRALIAN DLR BOND|eurobond:guaranteed:manager:luxembourg:spa:
+1923-SWISS CAPITAL EXPORTS RISE IN JANUARY|trade:
+1924-CHINA CALLS FOR BETTER TRADE DEAL WITH U.S.|trade:
+1925-NO BUNDESBANK POLICY CHANGES EXPECTED THURSDAY|interest:money:fx:
+1926-TAIWAN BANKS ASKED TO TAKE PART IN INDONESIA LOAN|receiving:facility:official:idea:produce:
+1927-COUNCIL OF EUROPE ISSUES LUXEMBOURG FRANC BOND|month:manager:pct:council:maturing:
+1928-ITALY CONSUMER PRICES RISE 0.4 PCT IN FEBRUARY|cpi:
+1929-MOBIL PLAN TO OPEN PEKING OFFICE, CHINA DAILY SAYS|crude:
+1930-EC ISSUES 600 MLN FRENCH FRANC EUROBOND|community:manager:luxembourg:fees:total:
+1931-KLM TO TAKE 15 PCT STAKE IN AIR UK|acq:
+1932-AIRBUS SIGNS ONE BILLION DLR JAPANESE CONTRACT|comment:engine:due:september:pnn:
+1933-|grain:corn:emptySet
+1934-FRENCH BOND COMMITTEE APPROVES THREE ISSUES|publics:manage:domestic:travaux:committee:
+1935-DEGUSSA COMBINES PHARMACEUTICAL INTERESTS|disclose:september:consolidated:domestic:results:
+1936-U.K. RESERVES SHOW UNDERLYING RISE IN FEBRUARY|reserves:
+1937-COMALCO SAYS LOWER COSTS HELP RETURN TO PROFITS|earn:alum:
+1938-ULTRAMAR SELLS U.K. MARKETING UNITS FOR 50 MLN STG|acq:
+1939-HONG KONG M3 RISES 2.2 PCT IN JANUARY|money:supply:
+1940-WOOLWORTH, UNDERWOODS FAIL TO AGREE ON BID|acq:
+1941-NO BUNDESBANK POLICY CHANGES EXPECTED THURSDAY|interest:money:fx:
+1942-U.K. MONEY MARKET SHORTAGE FORECAST REVISED UP|money:fx:interest:
+1943-PAKISTAN TO RETENDER FOR RBD PALM OIL TOMORROW|veg:oil:palm:oil:
+1944-MOBIL PLANS TO OPEN OFFICE IN PEKING|crude:
+1945-MERRILL MANDATED FOR IEL U.S. NOTE.|industrial:issued:agreed:domestic:owned:
+1946-EC, EURATOM FRENCH FRANC EUROBONDS EXPECTED|euratom:reuter:energy:community:atomic:
+1947-AUSTRALIAN POLICE ARREST FORMER WESTPAC CLERK|money:currency:officials:wstp:kleinwort:
+1948-Unilever Plc and Nv combined 1986 pre-tax profit 1.14 billion stg vs 953 mln. |earn:emptySet
+1949-GERMAN BANKS SEEK GREATER BRAZIL LINK WITH IMF|negotiation:move:attitude:suspend:solutions:
+1950-AQUINO ANNOUNCES LAND REFORM PLANS|devote:hectare:distribute:businesses:committee:
+1951-OPEC WITHIN OUTPUT CEILING, SUBROTO SAYS|crude:
+1952-U.K. MONEY MARKET GIVEN 24 MLN STG ASSISTANCE|money:fx:interest:
+1953-COUPON ON MITSUBISHI WARRANT BOND CUT|adjusted:estate:coupon:warrants:share:
+1954-JAPAN'S UNEMPLOYMENT RATE SEEN RISING TO 3.5 PCT|jobs:
+1955-TAIWAN REJECTS TEXTILE MAKER PLEA ON EXCHANGE RATE|saturday:reuter:quoted:kong:currency:
+1956-JAPANESE DEMAND FOR U.K. GILTS SEEN RISING|reuter:office:doubtful:including:rapidly:
+1957-|earn:emptySet
+1958-DAIMLER OUTPUT COULD BE AFFECTED BY DISPUTE|axles:reuter:withheld:foreseeable:daig:
+1959-HK HOTELS SOARS ON TAKEOVER SPECULATION|acq:
+1960-OERLIKON UNIT REJECTS DUTCH PATENT CHARGES|calmly:months:zurich:signaal:developed:
+1961-CASSA DI RISPARMIO DI ROMA LAUNCHING CD PROGRAM|issued:agent:paper:london:dealer:
+1962-BRYSON PAYS 5.4 MLN DLRS FOR CENERGY CORP STAKE|acq:
+1963-REAGAN APPROVAL RATING FALLS TO FOUR-YEAR LOW|sales:cbs:president:scandal:reuter:
+1964-REGAN DEPARTURE MAKES 3RD VOLCKER TERM LIKELY|reuter:shot:invited:reeling:increasingly:
+1965-GM <GM> CUTS WAGE BOOSTS FOR SALARIED EMPLOYEES|disbursing:thje:motors:general:effectively:
+1966-PRE-PAID LEGAL <PPD> GETS I.C.H. <ICH> FINANCING|reuter:proposed:request:expense:regulatory:
+1967-ASHTON-TATE <TATE> 4TH QTR NET|earn:
+1968-NEITHER SIDE OPTIMISTIC ON ROTTERDAM PORT ISSUES|ship:
+1969-AMR <AMR> TO HOLD PRESS CONFERENCE THIS MORNING|comment:supply:general:times:subject:
+1970-UNILEVER IMPROVES IN MOST SECTORS DURING 1986|earn:
+1971-U.S. LEADING INDICATORS FELL 1.0 PCT IN JAN AFTER REVISED 2.3 PCT DEC RISE |lei:emptySet
+1972-AMR CORP ORDERS 40 JETS FROM AIRBUS AND BOEING |emptySet
+1973-U.S. LEADING INDEX FELL 1.0 PCT IN JANUARY|lei:
+1974-BRAZIL FINANCE MINISTER MEETS FRENCH OFFICIALS|financial:meetings:mission:held:officials:
+1975-BURLINGTON COAT FACTORY WAREHOUSE CORP <BCF> NET|earn:
+1976-COFFEE PRICE FALL SHORT TERM - DUTCH ROASTERS|coffee:
+1977-GREENWOOD RESOURCES <GRRL> SELLS COMPANY STAKE|acq:
+1978-AMR <AMR> TO ACQUIRE 40 LONG-RANGE JET AIRCRAFT|scheduled:major:san:developed:explained:
+1979-VDO UNIT AND THOMSON-CSF IN JOINT VENTURE|set:agreed:statment:held:gmbh:
+1980-F.W. WOOLWORTH CO 4TH QTR SHR 1.78 DLRS VS 1.64 DLRS |earn:emptySet
+1981-HEINZ INTERESTED IN BUYING GUINNESS BREWING|acq:
+1982-EQUATORIAL COMMUNICATIONS <EQUA> TO HAVE LOSSES|earn:
+1983-TRANSAMERICA <TA> TO HAVE AUSTRALIAN SALE GAIN|earn:
+1984-VIACOM INTERNATIONAL INC GETS ANOTHER NEW NATIONAL AMUSEMENTS BID |acq:emptySet
+1985-F.W. WOOLWORTH CO <Z> 4TH QTR JAN 31 NET|earn:
+1986-GM <GM>  CUTTING SALARIED MERIT RAISES|motors:merit:general:reducing:workers:
+1987-BP OIL RAISES OPERATING PROFIT|earn:crude:
+1988-CANADA PRICES 1.2 BILLION DLR BOND ISSUE|issued:minimum:including:canada:delivered:
+1989-EARTHQUAKES CONTINUE IN NORTHERN NEW ZEALAND|major:people:civil:minutes:midnight:
+1990-U.S. ASKS JAPAN END AGRICULTURE IMPORT CONTROLS|trade:
+1991-U.S. FINANCIAL ANALYSTS - March 3|management:reuter:sarich:associates:health:
+1992-|emptySet
+1993-|emptySet
+1994-FIRSTCORP <FCR> SEES GAIN ON CONDEMNATION|earn:
+1995-ASHTON-TATE <TATE> TO OFFER COMMON SHARES|working:offering:outstanding:technology:reuter:
+1996-KEYCORP <KEY> REGISTERS SUBORDINATED NOTES|scheduled:boston:purposes:general:including:
+1997-<NATIONAL SEA PRODUCTS LTD> 4TH QTR NET|earn:

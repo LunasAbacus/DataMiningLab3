@@ -56,10 +56,20 @@ def main():
 					AddToDict(article, token, blacklist)
 				wr.write("\n"+str(articleNumber)+"-"+title+"|")
 
+				body = sgm.ExtractTagData(j,"TOPICS")
+				body = re.sub("[\d]"," ", body)
+				body = re.sub("[^\w]"," ", body)
+				body = body.lower()
+				for token in body.split():
+				    #print token
+					if(token is not "d"):
+						wr.write(token+":")
+
 				#sort article words by number times seen
 				sorted_x = sorted(article.items(), key=operator.itemgetter(1))
-				for pair in sorted_x[0:20]:
-					wr.write(pair[0]+":")
+				for pair in sorted_x[0:5]:
+					if(token is not "d"):
+						wr.write(pair[0]+":")
 
 				#for key in sorted(article.keys()):
 				    #print key + ":" + str(article[key])
